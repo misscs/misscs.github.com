@@ -15,7 +15,7 @@ I have an obsession with wondering how individuals, usually of the similar, driv
 Here's what I will, humbly, say...
 
 
-## I'm launching this here blog in Ocotopress and not Drupal
+## Powered by Octopress not Drupal
 I work with Drupal all the time. I've been exclusively steeped in Drupal for the last 3-years. As a technologist we need to feed our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist–especially as a front-end developer. 
 
 ##  Cleaner, easier to work with HTML5
