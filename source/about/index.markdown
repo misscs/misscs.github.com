@@ -7,11 +7,9 @@ sharing: false
 footer: false
 ---
 
-Hi, I'm Claudina Sarahe. I'm an innovator living in New York City. The internet is my primary medium, but I passionately seek out collaborations with like-minded folk. 
+Hi, I'm Claudina Sarahe. I'm an innovator living in New York City. The internet is my primary medium, but I enjoy creating in general.   
 
-There's lots of places on the internet to get to know more about me. Check them out
+There's lots of places on the internet to get to know more about me. Will list them here for you soon. Try Google for now. 
 
-* Workfu
-* LinkedIn
-
-Want more information than you can find? Email me. 
+Want more information than you can find? <its@misscs.me>
+ 
