@@ -21,6 +21,6 @@ I work with Drupal all the time. I've been exclusively steeped in Drupal for the
 ##  Cleaner, easier to work with HTML5
 A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal and overriding its ugly markup. For some reason the divide between backend and frontend seems less pronouced and ugly in other languages such as Ruby and Phython. Drupal's divide hurts the project. 
 
-But I digress. I don't want to spend my time fighting for clean-markup. I want to write it and manipulate it. This is how I stay on top of my craft. 
+I don't want to spend my time fighting for clean-markup. I want to write it and manipulate it. This is how I stay on top of my craft. I look forward to Drupal's HTML5 promise for Drupal8. However, given the development cycle for Drupal 7 and the fact that the project does not have a system for releasing updates throughout, HTML5 in Drupal is too difficult. And HTML5 is the now. 
 
 

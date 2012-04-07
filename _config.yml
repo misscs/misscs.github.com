@@ -66,7 +66,7 @@ github_skip_forks: false
 # Twitter
 twitter_user: itsmisscs
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
@@ -96,4 +96,4 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-30682942-1
 
 # Facebook Like
-facebook_like: true
+facebook_like: false

@@ -4,7 +4,7 @@
   <title><![CDATA[itsmisscs]]></title>
   <link href="http://itsmisscs.me/atom.xml" rel="self"/>
   <link href="http://itsmisscs.me/"/>
-  <updated>2012-04-07T18:00:02-04:00</updated>
+  <updated>2012-04-07T18:05:58-04:00</updated>
   <id>http://itsmisscs.me/</id>
   <author>
     <name><![CDATA[Claudina Sarahe]]></name>
@@ -35,7 +35,7 @@
 
 <p>A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal and overriding its ugly markup. For some reason the divide between backend and frontend seems less pronouced and ugly in other languages such as Ruby and Phython. Drupal&#8217;s divide hurts the project.</p>
 
-<p>But I digress. I don&#8217;t want to spend my time fighting for clean-markup. I want to write it and manipulate it. This is how I stay on top of my craft.</p>
+<p>I don&#8217;t want to spend my time fighting for clean-markup. I want to write it and manipulate it. This is how I stay on top of my craft. I look forward to Drupal&#8217;s HTML5 promise for Drupal8. However, given the development cycle for Drupal 7 and the fact that the project does not have a system for releasing updates throughout, HTML5 in Drupal is too difficult. And HTML5 is the now.</p>
 ]]></content>
   </entry>
   
