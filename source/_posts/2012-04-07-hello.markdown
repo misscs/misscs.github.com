@@ -6,6 +6,10 @@ comments: true
 categories: ocotopress writing drupal
 ---
 
+The obligatory first post, the getting started. Just saying "hello", discussing why I launched on Ocotopress instead of Drupal, and the value of getting out of your comfort zone. 
+
+<!-- more -->
+
 The obligatory first post, the getting started. I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. I postulate that it is a rare person indeed that reads back to ones first post. Granted, this means that you are a prolific writer. Very magnanimous to claim that with this first post. 
 
 Here's what I will say
