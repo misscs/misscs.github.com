@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ocotopress | itsmisscs]]></title>
   <link href="http://itsmisscs.me/blog/categories/ocotopress/atom.xml" rel="self"/>
   <link href="http://itsmisscs.me/"/>
-  <updated>2012-04-07T17:49:27-04:00</updated>
+  <updated>2012-04-07T17:56:06-04:00</updated>
   <id>http://itsmisscs.me/</id>
   <author>
     <name><![CDATA[Claudina Sarahe]]></name>
@@ -23,19 +23,15 @@
 <!-- more -->
 
 
-<p>The obligatory first post, the getting started. I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. I postulate that it is a rare person indeed that reads back to ones first post. Granted, this means that you are a prolific writer. Very magnanimous to claim that with this first post.</p>
+<p>I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. I postulate that it is a rare person indeed that reads back to ones first post. Granted, this means that you are a prolific writer.</p>
 
-<p>Here's what I will say</p>
+<p>Here's what I will, humbly, say...</p>
 
-<p>I'm launching this here blog in Ocotopress and not Drupal. Why?</p>
+<h2>I'm launching this here blog in Ocotopress and not Drupal</h2>
 
-<h3>I work with Drupal all the time.</h3>
+<p>I work with Drupal all the time. I've been exclusively steeped in Drupal for the last 3-years. As a technologist we need to feed our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist–especially as a front-end developer.</p>
 
-<p>As a technologist we need to constantly be feeding our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist.</p>
-
-<p>Besides, it isn't like I'm leaving open source.</p>
-
-<h3>Cleaner, easier to work with css/html5/sass/compass</h3>
+<h2>Cleaner, easier to work with HTML5</h2>
 
 <p>A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal and overriding its ugly markup. For some reason the divide between backend and frontend seems less pronouced and ugly in other languages such as Ruby and Phython. Drupal's divide hurts the project.</p>
 
