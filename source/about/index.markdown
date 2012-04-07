@@ -3,8 +3,8 @@ layout: page
 title: "About"
 comments: false
 author: false
-sharing: true
-footer: true
+sharing: false
+footer: false
 ---
 
 Hi, I'm Claudina Sarahe. I'm an innovator living in New York City. The internet is my primary medium, but I passionately seek out collaborations with like-minded folk. 
