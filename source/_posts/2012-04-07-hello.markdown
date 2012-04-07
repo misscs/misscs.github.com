@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Hello, World"
+date: 2012-04-07 16:24
+comments: true
+categories: ocotopress writing drupal
+---
+
+The obligatory first post, the getting started. I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. I postulate that it is a rare person indeed that reads back to ones first post. Granted, this means that you are a prolific writer. Very magnanimous to claim that with this first post. 
+
+Here's what I will say
+
+I'm launching this here blog in Ocotopress and not Drupal. Why? 
+
+### I work with Drupal all the time.
+As a technologist we need to constantly be feeding our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist. 
+
+Besides, it isn't like I'm leaving open source. 
+
+###  Cleaner, easier to work with css/html5/sass/compass 
+A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal and overriding its ugly markup. For some reason the divide between backend and frontend seems less pronouced and ugly in other languages such as Ruby and Phython. Drupal's divide hurts the project. 
+
+But I digress. I don't want to spend my time fighting for clean-markup. I want to write it and manipulate it. This is how I stay on top of my craft. 
+
+
