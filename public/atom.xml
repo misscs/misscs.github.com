@@ -4,7 +4,7 @@
   <title><![CDATA[itsmisscs]]></title>
   <link href="http://itsmisscs.me/atom.xml" rel="self"/>
   <link href="http://itsmisscs.me/"/>
-  <updated>2012-04-07T18:44:37-04:00</updated>
+  <updated>2012-04-09T01:25:21-04:00</updated>
   <id>http://itsmisscs.me/</id>
   <author>
     <name><![CDATA[Claudina Sarahe]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NYC Sass and Compass Users Unite]]></title>
+    <link href="http://itsmisscs.me/blog/2012/04/08/nyc-sass-and-compass-users-unite/"/>
+    <updated>2012-04-08T23:46:00-04:00</updated>
+    <id>http://itsmisscs.me/blog/2012/04/08/nyc-sass-and-compass-users-unite</id>
+    <content type="html"><![CDATA[<p>I&#8217;m excited to announce the NYC Sass and Compass Meetup Group. I was first introduced to Sass in 2009. And although its usage in the Ruby community has been strong, it has just really taken hold outside Ruby and in the CSS community at large.</p>
+
+<p>I plan on speaking more on 17 April 2012 about the value and importance of CSS. I&#8217;ll dot on a view things here for the sake of this post.</p>
+
+<p>The first meeting which is very much free form. It is important to bring everyone together and get an idea of what the user base looks like before making assumptions. I&#8217;m already surprised that a) People actually fill out the questions on the Meetup group, and b) we have a high number of intermediate-advanced users.</p>
+
+<p>While I want the Meetup to be all inclusive,there is definitely, in my opinion, more content on the webs for beginners than advanced users. I am not saying we will not cover beginner content–the goal is to serve the user base.</p>
+
+<p>For future meetups I envision the advanced and intermediate users preparing presentations. I&#8217;d like to have talks about how people are integrating Sass down to more particulars such as writing your own framework, best practices for partials etc.</p>
+
+<h2>Uniting the Front-End Community</h2>
+
+<p>CSS Preprocessors, especially Sass when taken with its cohort Compass, finally give the front-end community a cohesive language. We have tried since Zeldman pioneered standards to create our own form of reusable content. The problem? It is hard. And while Sass will not solve bad CSS or hurried projects, it gives us a common set of tool to share. Coupled with Github , the ability to easily share best practices, which is what leads to their adoption, is finally upon us.</p>
+
+<h2>Preparing for SassCon</h2>
+
+<p>The murmurs are true: SassCon is coming to a city–New York City–near you. It is a great honor to be a part of the organizing committee, which includes Nathan, Chris, and Adam, as well as Mason Wendell, Sam Richards, and Scott Kellum. The meetup group will help us build our base and make a successful first SassCon.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello, World]]></title>
@@ -23,19 +48,19 @@
 <!-- more -->
 
 
-<p>I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. I postulate that it is a rare person indeed that reads back to ones first post. Granted, this means that you are a prolific writer.</p>
+<p>I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. Started becomes an after thought–the past–to the present. What matters is doing and what we are doing.</p>
 
-<p>Here&#8217;s what I will, humbly, say&#8230;</p>
+<p>I&#8217;ve been trying and stumbling to write regularly. A vast amount of the difficulty deals with the divide between personal and work. Realizing that I won&#8217;t get my stride from the get go, I&#8217;ve finally reached the point where I am genuinely excited to write and experiment in this medium.</p>
 
 <h2>Powered by Octopress not Drupal</h2>
 
-<p>I work with Drupal all the time. I&#8217;ve been exclusively steeped in Drupal for the last 3-years. As a technologist we need to feed our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist–especially as a front-end developer.</p>
+<p>I&#8217;ve been predominately working with Drupal for the last 3-years. As a technologist we need to feed our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist–especially as a front-end developer.</p>
 
 <h2>Cleaner, easier to work with HTML5</h2>
 
-<p>A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal and overriding its ugly markup. For some reason the divide between backend and frontend seems less pronouced and ugly in other languages such as Ruby and Phython. Drupal&#8217;s divide hurts the project.</p>
+<p>A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal to overide its ugly markup.  I don&#8217;t want to spend my time fighting for clean-markup. I just want to write it and not have to worry about how another module, read developer, is returning output. Drupal 8 is going to be a big step forward for the project. However, given the development cycle for Drupal 7 took 3 years, it doesn&#8217;t look like HTML5 in core will happen soon. I hope the project can find a way to adopt more lean methodology and release more often.</p>
 
-<p>I don&#8217;t want to spend my time fighting for clean-markup. I want to write it and manipulate it. This is how I stay on top of my craft. I look forward to Drupal&#8217;s HTML5 promise for Drupal8. However, given the development cycle for Drupal 7 and the fact that the project does not have a system for releasing updates throughout, HTML5 in Drupal is too difficult. And HTML5 is the now.</p>
+<p>HTML5 is the now. By spending less time fighting markup, I have more time to contribute back and make a difference where it matters, at the core level.</p>
 ]]></content>
   </entry>
   

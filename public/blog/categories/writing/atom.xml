@@ -4,7 +4,7 @@
   <title><![CDATA[Category: writing | itsmisscs]]></title>
   <link href="http://itsmisscs.me/blog/categories/writing/atom.xml" rel="self"/>
   <link href="http://itsmisscs.me/"/>
-  <updated>2012-04-07T18:44:37-04:00</updated>
+  <updated>2012-04-09T01:25:21-04:00</updated>
   <id>http://itsmisscs.me/</id>
   <author>
     <name><![CDATA[Claudina Sarahe]]></name>
@@ -23,19 +23,19 @@
 <!-- more -->
 
 
-<p>I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. I postulate that it is a rare person indeed that reads back to ones first post. Granted, this means that you are a prolific writer.</p>
+<p>I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. Started becomes an after thought–the past–to the present. What matters is doing and what we are doing.</p>
 
-<p>Here's what I will, humbly, say...</p>
+<p>I've been trying and stumbling to write regularly. A vast amount of the difficulty deals with the divide between personal and work. Realizing that I won't get my stride from the get go, I've finally reached the point where I am genuinely excited to write and experiment in this medium.</p>
 
 <h2>Powered by Octopress not Drupal</h2>
 
-<p>I work with Drupal all the time. I've been exclusively steeped in Drupal for the last 3-years. As a technologist we need to feed our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist–especially as a front-end developer.</p>
+<p>I've been predominately working with Drupal for the last 3-years. As a technologist we need to feed our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist–especially as a front-end developer.</p>
 
 <h2>Cleaner, easier to work with HTML5</h2>
 
-<p>A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal and overriding its ugly markup. For some reason the divide between backend and frontend seems less pronouced and ugly in other languages such as Ruby and Phython. Drupal's divide hurts the project.</p>
+<p>A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal to overide its ugly markup.  I don't want to spend my time fighting for clean-markup. I just want to write it and not have to worry about how another module, read developer, is returning output. Drupal 8 is going to be a big step forward for the project. However, given the development cycle for Drupal 7 took 3 years, it doesn't look like HTML5 in core will happen soon. I hope the project can find a way to adopt more lean methodology and release more often.</p>
 
-<p>I don't want to spend my time fighting for clean-markup. I want to write it and manipulate it. This is how I stay on top of my craft. I look forward to Drupal's HTML5 promise for Drupal8. However, given the development cycle for Drupal 7 and the fact that the project does not have a system for releasing updates throughout, HTML5 in Drupal is too difficult. And HTML5 is the now.</p>
+<p>HTML5 is the now. By spending less time fighting markup, I have more time to contribute back and make a difference where it matters, at the core level.</p>
 ]]></content>
   </entry>
   
