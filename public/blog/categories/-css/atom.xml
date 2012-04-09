@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: "css | itsmisscs]]></title>
+  <link href="http://itsmisscs.me/blog/categories/-css/atom.xml" rel="self"/>
+  <link href="http://itsmisscs.me/"/>
+  <updated>2012-04-09T01:25:21-04:00</updated>
+  <id>http://itsmisscs.me/</id>
+  <author>
+    <name><![CDATA[Claudina Sarahe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[NYC Sass and Compass Users Unite]]></title>
+    <link href="http://itsmisscs.me/blog/2012/04/08/nyc-sass-and-compass-users-unite/"/>
+    <updated>2012-04-08T23:46:00-04:00</updated>
+    <id>http://itsmisscs.me/blog/2012/04/08/nyc-sass-and-compass-users-unite</id>
+    <content type="html"><![CDATA[<p>I'm excited to announce the NYC Sass and Compass Meetup Group. I was first introduced to Sass in 2009. And although its usage in the Ruby community has been strong, it has just really taken hold outside Ruby and in the CSS community at large.</p>
+
+<p>I plan on speaking more on 17 April 2012 about the value and importance of CSS. I'll dot on a view things here for the sake of this post.</p>
+
+<p>The first meeting which is very much free form. It is important to bring everyone together and get an idea of what the user base looks like before making assumptions. I'm already surprised that a) People actually fill out the questions on the Meetup group, and b) we have a high number of intermediate-advanced users.</p>
+
+<p>While I want the Meetup to be all inclusive,there is definitely, in my opinion, more content on the webs for beginners than advanced users. I am not saying we will not cover beginner content–the goal is to serve the user base.</p>
+
+<p>For future meetups I envision the advanced and intermediate users preparing presentations. I'd like to have talks about how people are integrating Sass down to more particulars such as writing your own framework, best practices for partials etc.</p>
+
+<h2>Uniting the Front-End Community</h2>
+
+<p>CSS Preprocessors, especially Sass when taken with its cohort Compass, finally give the front-end community a cohesive language. We have tried since Zeldman pioneered standards to create our own form of reusable content. The problem? It is hard. And while Sass will not solve bad CSS or hurried projects, it gives us a common set of tool to share. Coupled with Github , the ability to easily share best practices, which is what leads to their adoption, is finally upon us.</p>
+
+<h2>Preparing for SassCon</h2>
+
+<p>The murmurs are true: SassCon is coming to a city–New York City–near you. It is a great honor to be a part of the organizing committee, which includes Nathan, Chris, and Adam, as well as Mason Wendell, Sam Richards, and Scott Kellum. The meetup group will help us build our base and make a successful first SassCon.</p>
+]]></content>
+  </entry>
+  
+</feed>
