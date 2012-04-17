@@ -1,0 +1,26 @@
+---
+layout: post
+title: "The Leaderboard does not Include you"
+date: 2012-04-10 13:42
+comments: true
+categories: drupal open-source  
+---
+
+I don't like to take lunch at in front of my computer, but today I did. If I do that, I try to use the time to surf since it is rather unproductive to bill my clients and nosh. Came across a blog post by MasterBranch about Leaderbaord,their new tool that ranks open source projects awesomness. 
+
+I searched for Drupal. Abysmal. 
+
+I realized after scouting through the top project–Rails, not surprised–that Drupal really does have some serious problems. Over the last month I've been stepping outside the Drupal community, my work is still in Drupal but I somehow feel like I'm observing the pen from above. 
+
+It all started on StartUpBus when I wrote static HTML5. The experience was both foreign and freeing. It taught me that I was too tied in that system. 
+
+Drupal is the enterprise CMS. Nothing compares. It is here to stay and has proven its viability by the projects that it powers. Within the community there are many quibbles about lack of core contributors, and I can see why. 
+
+Drupal needs to be on Git. It needs to be in the public. Drupal also needs to work on its release cycyles. Core contributors need to be open to outside influence and not protect their code. There is no reason that Drupal shouldn't be a top contributed project. It is but, but the contributions are not in the public eye. 
+
+Github has revolutionized technologists ability to share and brought the best of the best out from the basement. Seriously, gone are they days of stigma about tech heads living shacked in their parents basement, with unibrows. Shit, we get mani/pedis and jet set around the world and get our shirts pressed for special events. Tech is sexy and so is knowing whose behind. 
+
+I hope that Drupal integrates more with the tech community. All languages and projects have something they can learn from the other. Rails and Python are incredibly public. I wonder if Drupal devs had the same level of transparency, if this could prevent the all to common mistake of hiring a supposed Drupal expert only to find your site is on-fire and your paying top-notch paramedics. 
+
+In short, public is good. And yes, Drupal did make a certified to Rock, but again, that's privte, insular, within a community. 
+

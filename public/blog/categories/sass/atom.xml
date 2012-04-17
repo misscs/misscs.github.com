@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: sass | itsmisscs]]></title>
-  <link href="http://itsmisscs.me/blog/categories/sass/atom.xml" rel="self"/>
-  <link href="http://itsmisscs.me/"/>
-  <updated>2012-04-09T01:25:21-04:00</updated>
-  <id>http://itsmisscs.me/</id>
+  <link href="http://misscs.github.com/blog/categories/sass/atom.xml" rel="self"/>
+  <link href="http://misscs.github.com/"/>
+  <updated>2012-04-17T02:31:50-04:00</updated>
+  <id>http://misscs.github.com/</id>
   <author>
     <name><![CDATA[Claudina Sarahe]]></name>
     
@@ -14,17 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[NYC Sass and Compass Users Unite]]></title>
-    <link href="http://itsmisscs.me/blog/2012/04/08/nyc-sass-and-compass-users-unite/"/>
+    <title type="html"><![CDATA[NYC Sass and Compass Users United]]></title>
+    <link href="http://misscs.github.com/blog/2012/04/08/nyc-sass-and-compass-users-unite/"/>
     <updated>2012-04-08T23:46:00-04:00</updated>
-    <id>http://itsmisscs.me/blog/2012/04/08/nyc-sass-and-compass-users-unite</id>
+    <id>http://misscs.github.com/blog/2012/04/08/nyc-sass-and-compass-users-unite</id>
     <content type="html"><![CDATA[<p>I'm excited to announce the NYC Sass and Compass Meetup Group. I was first introduced to Sass in 2009. And although its usage in the Ruby community has been strong, it has just really taken hold outside Ruby and in the CSS community at large.</p>
 
 <p>I plan on speaking more on 17 April 2012 about the value and importance of CSS. I'll dot on a view things here for the sake of this post.</p>
 
 <p>The first meeting which is very much free form. It is important to bring everyone together and get an idea of what the user base looks like before making assumptions. I'm already surprised that a) People actually fill out the questions on the Meetup group, and b) we have a high number of intermediate-advanced users.</p>
 
-<p>While I want the Meetup to be all inclusive,there is definitely, in my opinion, more content on the webs for beginners than advanced users. I am not saying we will not cover beginner content–the goal is to serve the user base.</p>
+<p>While I want the Meetup to be all inclusive,there is definitely, in my opinion, more content on the web for beginners than advanced users. I am not saying we will not cover beginner content–the goal is to serve the user base.</p>
 
 <p>For future meetups I envision the advanced and intermediate users preparing presentations. I'd like to have talks about how people are integrating Sass down to more particulars such as writing your own framework, best practices for partials etc.</p>
 

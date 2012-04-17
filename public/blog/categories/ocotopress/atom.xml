@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ocotopress | itsmisscs]]></title>
-  <link href="http://itsmisscs.me/blog/categories/ocotopress/atom.xml" rel="self"/>
-  <link href="http://itsmisscs.me/"/>
-  <updated>2012-04-09T01:25:21-04:00</updated>
-  <id>http://itsmisscs.me/</id>
+  <link href="http://misscs.github.com/blog/categories/ocotopress/atom.xml" rel="self"/>
+  <link href="http://misscs.github.com/"/>
+  <updated>2012-04-17T02:31:50-04:00</updated>
+  <id>http://misscs.github.com/</id>
   <author>
     <name><![CDATA[Claudina Sarahe]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello, World]]></title>
-    <link href="http://itsmisscs.me/blog/2012/04/07/hello/"/>
+    <link href="http://misscs.github.com/blog/2012/04/07/hello/"/>
     <updated>2012-04-07T16:24:00-04:00</updated>
-    <id>http://itsmisscs.me/blog/2012/04/07/hello</id>
+    <id>http://misscs.github.com/blog/2012/04/07/hello</id>
     <content type="html"><![CDATA[<p>The obligatory first post, the getting started. Just saying "hello", discussing why I launched on Ocotopress instead of Drupal, and the value of getting out of your comfort zone.</p>
 
 <!-- more -->

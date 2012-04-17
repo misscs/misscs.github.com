@@ -1,23 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://itsmisscs.me/blog/2012/04/07/hello/</loc>
+        <loc>http://misscs.github.com/blog/2012/04/07/hello/</loc>
         <lastmod>2012-04-09T01:18:34-04:00</lastmod>
     </url>
     <url>
-        <loc>http://itsmisscs.me/blog/2012/04/08/nyc-sass-and-compass-users-unite/</loc>
-        <lastmod>2012-04-09T01:22:07-04:00</lastmod>
+        <loc>http://misscs.github.com/blog/2012/04/08/nyc-sass-and-compass-users-unite/</loc>
+        <lastmod>2012-04-09T12:28:19-04:00</lastmod>
     </url>
     <url>
-        <loc>http://itsmisscs.me/about/</loc>
+        <loc>
+            http://misscs.github.com/blog/2012/04/09/facebook-owns-your-memories-the-instagram-acquisition/
+        </loc>
+        <lastmod>2012-04-09T15:40:05-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://misscs.github.com/blog/2012/04/10/the-leaderboard-does-not-include-you/</loc>
+        <lastmod>2012-04-10T13:55:36-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://misscs.github.com/about/</loc>
         <lastmod>2012-04-07T17:49:27-04:00</lastmod>
     </url>
     <url>
-        <loc>http://itsmisscs.me/blog/archives/</loc>
-        <lastmod>2012-04-09T01:22:07-04:00</lastmod>
+        <loc>http://misscs.github.com/blog/archives/</loc>
+        <lastmod>2012-04-10T13:55:36-04:00</lastmod>
     </url>
     <url>
-        <loc>http://itsmisscs.me/</loc>
-        <lastmod>2012-04-09T01:22:07-04:00</lastmod>
+        <loc>http://misscs.github.com/</loc>
+        <lastmod>2012-04-10T13:55:36-04:00</lastmod>
     </url>
 </urlset>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: drupal | itsmisscs]]></title>
-  <link href="http://misscs.github.com/blog/categories/drupal/atom.xml" rel="self"/>
+  <title><![CDATA[Category: open-source | itsmisscs]]></title>
+  <link href="http://misscs.github.com/blog/categories/open-source/atom.xml" rel="self"/>
   <link href="http://misscs.github.com/"/>
   <updated>2012-04-17T02:31:50-04:00</updated>
   <id>http://misscs.github.com/</id>
@@ -35,32 +35,6 @@
 <p>I hope that Drupal integrates more with the tech community. All languages and projects have something they can learn from the other. Rails and Python are incredibly public. I wonder if Drupal devs had the same level of transparency, if this could prevent the all to common mistake of hiring a supposed Drupal expert only to find your site is on-fire and your paying top-notch paramedics.</p>
 
 <p>In short, public is good. And yes, Drupal did make a certified to Rock, but again, that's privte, insular, within a community.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello, World]]></title>
-    <link href="http://misscs.github.com/blog/2012/04/07/hello/"/>
-    <updated>2012-04-07T16:24:00-04:00</updated>
-    <id>http://misscs.github.com/blog/2012/04/07/hello</id>
-    <content type="html"><![CDATA[<p>The obligatory first post, the getting started. Just saying "hello", discussing why I launched on Ocotopress instead of Drupal, and the value of getting out of your comfort zone.</p>
-
-<!-- more -->
-
-
-<p>I have an obsession with wondering how individuals, usually of the similar, driven mind, like mine get started. What I arrived at is that eventually it will not matter. Started becomes an after thought–the past–to the present. What matters is doing and what we are doing.</p>
-
-<p>I've been trying and stumbling to write regularly. A vast amount of the difficulty deals with the divide between personal and work. Realizing that I won't get my stride from the get go, I've finally reached the point where I am genuinely excited to write and experiment in this medium.</p>
-
-<h2>Powered by Octopress not Drupal</h2>
-
-<p>I've been predominately working with Drupal for the last 3-years. As a technologist we need to feed our minds. While I really love and respect the values of the Drupal project, if I only work in a silo I will be a bad technologist–especially as a front-end developer.</p>
-
-<h2>Cleaner, easier to work with HTML5</h2>
-
-<p>A lot of my time in Drupal, especially as a themer, is spent wrangling Drupal to overide its ugly markup.  I don't want to spend my time fighting for clean-markup. I just want to write it and not have to worry about how another module, read developer, is returning output. Drupal 8 is going to be a big step forward for the project. However, given the development cycle for Drupal 7 took 3 years, it doesn't look like HTML5 in core will happen soon. I hope the project can find a way to adopt more lean methodology and release more often.</p>
-
-<p>HTML5 is the now. By spending less time fighting markup, I have more time to contribute back and make a difference where it matters, at the core level.</p>
 ]]></content>
   </entry>
   
