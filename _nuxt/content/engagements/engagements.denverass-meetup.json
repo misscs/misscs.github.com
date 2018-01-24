@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "index": 12,
+    "fileName": "denverass-meetup.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/denverass-meetup",
+  "permalink": "/engagements/denverass-meetup",
+  "anchors": [],
+  "body": {
+    "event": "DenverSass Meetup",
+    "event_url": "https://www.meetup.com/front-range-front-end/events/189898702/",
+    "event_venue": null,
+    "event_location": "Denver, CO",
+    "date": "8 July 2014",
+    "title": "HTML Components",
+    "type": null
+  }
+}

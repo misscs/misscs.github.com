@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "index": 0,
+    "fileName": "westernmass-drupalcamp-sass.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/westernmass-drupalcamp-sass",
+  "permalink": "/engagements/westernmass-drupalcamp-sass",
+  "anchors": [],
+  "body": {
+    "event": "Western Mass DrupalCamp",
+    "event_url": null,
+    "event_location_venue": "UMASS Amherst",
+    "event_location": "Amherst, MA",
+    "date": "January 21 2012",
+    "title": null,
+    "type": [
+      "talk"
+    ],
+    "topics": [
+      "front-end",
+      "sass"
+    ],
+    "media_type": null,
+    "media_url": null,
+    "resources": null
+  }
+}

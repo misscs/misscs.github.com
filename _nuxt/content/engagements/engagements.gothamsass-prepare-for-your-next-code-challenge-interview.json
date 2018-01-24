@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "index": 4,
+    "fileName": "gothamsass-prepare-for-your-next-code-challenge-interview.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/gothamsass-prepare-for-your-next-code-challenge-interview",
+  "permalink": "/engagements/gothamsass-prepare-for-your-next-code-challenge-interview",
+  "anchors": [],
+  "body": {
+    "event": "GothamSass",
+    "event_url": "https://www.meetup.com/gothamsass/messages/79735372/",
+    "event_location_venue": "Thoughtworks",
+    "event_location": "New York, NY",
+    "date": "25 February 2017",
+    "title": "How to better prepare for your next code challege/interview",
+    "type": [
+      "talk"
+    ],
+    "topics": [
+      "hiring",
+      "teams"
+    ],
+    "resources": [
+      {
+        "type": "slides",
+        "link": "https://misscs.github.io/hiring-patterns/"
+      }
+    ]
+  }
+}

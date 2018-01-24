@@ -1,0 +1,1181 @@
+[
+  {
+    "meta": {
+      "index": 0,
+      "fileName": "devnexus-sass-workshop.yaml",
+      "section": "/workshops",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/devnexus-sass-workshop",
+    "permalink": "/engagements/devnexus-sass-workshop",
+    "anchors": [],
+    "body": {
+      "event": "DevNexus",
+      "event_url": "http://thewebahead.net/90",
+      "event_location_venue": "Cobb Galleria",
+      "event_location": "Atlanta, GA",
+      "date": 2015,
+      "title": "Ins and Outs of Sass - Build Front End Systems",
+      "type": [
+        "workshop"
+      ],
+      "topics": [
+        "front-end",
+        "systems design",
+        "sass"
+      ],
+      "media_type": "video",
+      "media_url": "https://youtu.be/JIeFhdffM_Y?list=PLid93BOrASLPwJIlj9tmnkL1ghQTejtMI",
+      "resources": [
+        {
+          "type": "article",
+          "link": "https://www.tuicool.com/articles/ymmaAf6"
+        },
+        {
+          "type": "article",
+          "link": "https://dzone.com/videos/devnexus2015/ins-outs-sass"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 1,
+      "fileName": "c4q-hiring-patterns-for-candidates.yaml",
+      "section": "/workshops",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/c4q-hiring-patterns-for-candidates",
+    "permalink": "/engagements/c4q-hiring-patterns-for-candidates",
+    "anchors": [],
+    "body": {
+      "event": "C4Q",
+      "event_url": "https://www.c4q.nyc/",
+      "event_location_venue": null,
+      "event_location": "Queens, NY",
+      "date": "10 April 2017",
+      "title": "Hiring Patterns for Candidates",
+      "type": [
+        "workshop"
+      ],
+      "topics": [
+        "hiring",
+        "interviewing",
+        "tech jobs"
+      ],
+      "resources": [
+        {
+          "type": "slides",
+          "link": "https://misscs.github.io/hiring-patterns/"
+        }
+      ],
+      "testimonials": [
+        "Thanks so much for the interviewing workshop with our students. They LOVED it. Several said it was the best workshop they'd had at C4Q."
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 2,
+      "fileName": "blendconf-getting-to-know-sass.yaml",
+      "section": "/workshops",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/blendconf-getting-to-know-sass",
+    "permalink": "/engagements/blendconf-getting-to-know-sass",
+    "anchors": [],
+    "body": {
+      "event": "BlendConf",
+      "event_url": "http://2014.blendconf.com/speakers/claudina-sarahe/",
+      "event_location_venue": "Charlotte Sheraton Hotel",
+      "event_location": "Charlotte, NC",
+      "date": "September 11, 2014",
+      "title": "Getting to know Sass",
+      "type": [
+        "workshop"
+      ],
+      "topics": [
+        "sass",
+        "front-end architecture"
+      ],
+      "media_type": null,
+      "media_url": null,
+      "resources": null,
+      "description": null,
+      "bio": "Radical entrepreneur, developer, organizer, teacher and author driven by a desire to make a difference and bring a smile to a face. Claudina Sarahe has been striving for a more beautiful and useable web since 2005. She has worked with notable brands such as PBS, Charlie Rose, Daniel Libeskind, Scholastic, Huffington Post, and Deep Dish TV. She was a founding member of the UNICEF Innovations team and is on the board of MACILE, a non-profit dedicated to advancing STEM in less advantaged communities. She's taught high schoolers in the Dominican Republic and West Harlem and is the curriculum co-lead for Black Girls Code NYC chapter. She co-founded Autotax.me (RIP), a 2013 Y Combinator finalist, organizes the monthly NYC Sass Meetup and is the chair of SassConf. When she's not pursuing her various projects she can be found molding ideas into experiences for humans with OddBird.",
+      "testimonials": [
+        {
+          "type": "tweet",
+          "link": "https://twitter.com/shneusk/status/510100948140978176",
+          "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"es\"><p lang=\"en\" dir=\"ltr\">SASS is neat. (I knew that already, but now I can actually use it some) <a href=\"https://twitter.com/hashtag/blendconf?src=hash&amp;ref_src=twsrc%5Etfw\">#blendconf</a></p>&mdash; Adam Wishneusky (@shneusk) <a href=\"https://twitter.com/shneusk/status/510100948140978176?ref_src=twsrc%5Etfw\">11 de septiembre de 2014</a></blockquote>"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 0,
+      "fileName": "westernmass-drupalcamp-sass.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/westernmass-drupalcamp-sass",
+    "permalink": "/engagements/westernmass-drupalcamp-sass",
+    "anchors": [],
+    "body": {
+      "event": "Western Mass DrupalCamp",
+      "event_url": null,
+      "event_location_venue": "UMASS Amherst",
+      "event_location": "Amherst, MA",
+      "date": "January 21 2012",
+      "title": null,
+      "type": [
+        "talk"
+      ],
+      "topics": [
+        "front-end",
+        "sass"
+      ],
+      "media_type": null,
+      "media_url": null,
+      "resources": null
+    }
+  },
+  {
+    "meta": {
+      "index": 1,
+      "fileName": "pnwdrupalcamp-case-study-studio-daniel-libeskind.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/pnwdrupalcamp-case-study-studio-daniel-libeskind",
+    "permalink": "/engagements/pnwdrupalcamp-case-study-studio-daniel-libeskind",
+    "anchors": [],
+    "body": {
+      "event": "Pacific Northwest Drupal Summit",
+      "event_url": "http://nyc2010.drupalcamp.org/sessions/building-beauty-deadline-project-management-development-and-deployment-when-all-hands-are-d/index.html",
+      "event_location_venue": null,
+      "event_location": "Portland, OR",
+      "date": "October 14 2011",
+      "title": "Building Beauty on Deadline: Project Management, Development, and Deployment When All Hands are On Deck",
+      "description": "\"This session is a comprehensive case study of the re-launch of the site for Studio Daniel Libeskind (master planner for the Ground Zero memorial and redevelopment). The designer-driven project meant special challenges for overall theming and presentation in mobile devices.*\nWe will provide an informative and thorough case study of the highs and lows, highlighting what worked and what was learned from what didn't work. Business and planning practices will be open to inspection as well as code, and we invite interrogation and critique in the closing discussion portion of the session.\nThis session will answer:\n- How large a project can a small team handle? - How does a fluid team (core plus hired talent) do feature triage, dividing up tasks, and effective use of Redmine project management? - What development practices will save you time (also known as money) and are must haves for effective collaborative development, especially for remote teams? - Why does User Centered design works and how do you integrate the principles into your development process? - What to do to make an innovative design that makes responsive design difficult shine on tablet, iPad, iPhone, Android, and Blackberry devices?\"\n",
+      "co": {
+        "name": "Benjamin Melançon"
+      },
+      "type": [
+        "talk",
+        "case study"
+      ],
+      "resources": [
+        {
+          "type": "slides",
+          "link": "https://prezi.com/kaef_i1uv8x6/building-beauty-on-a-budget/"
+        },
+        {
+          "notes": "notes",
+          "link": "http://data.agaric.com/building-beauty-presentation-documentation-and-links"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 2,
+      "fileName": "mixin-getting-into-componentized-mindset.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/mixin-getting-into-componentized-mindset",
+    "permalink": "/engagements/mixin-getting-into-componentized-mindset",
+    "anchors": [],
+    "body": {
+      "event": "The Mixin",
+      "event_url": "http://themixinsf.com/2014/07/23/claudina-sarahe-chris-eppstein/",
+      "date": "23 July 2014",
+      "title": "Getting into a Componentized Mindset",
+      "type": null,
+      "media_type": null,
+      "media_url": null
+    }
+  },
+  {
+    "meta": {
+      "index": 3,
+      "fileName": "gothamsass-sassshop-workshop-beginner-intermediate.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/gothamsass-sassshop-workshop-beginner-intermediate",
+    "permalink": "/engagements/gothamsass-sassshop-workshop-beginner-intermediate",
+    "anchors": [],
+    "body": {
+      "event": "GothamSass",
+      "event_url": "https://www.meetup.com/gothamsass/events/205638062/?_cookie-check=sHYgmuYleukuFy_m",
+      "event_location_venue": "Crush & Lovely",
+      "event_location": "NYC",
+      "date": "8 September 2014",
+      "title": "SassShop: 2hr Sass Workshop (Beginner to Intermediate)",
+      "type": [
+        "workshop"
+      ],
+      "topics": [
+        "sass"
+      ],
+      "description": "Are you looking to take your Sass chops to the next level? Are you just starting out with Sass and want to cut straight through the cruft to best practices and techniques? This 2hr SassShop is a hands on experience designed to cover the Sass feature set from a practical, daily use perspective. Our goal is to have you leaving feeling more comfortable with Sass. We hope you will walk out with new Sassy insights to take back to your team or solo-practice as well as techniques for improving your front-end development process."
+    }
+  },
+  {
+    "meta": {
+      "index": 4,
+      "fileName": "gothamsass-prepare-for-your-next-code-challenge-interview.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/gothamsass-prepare-for-your-next-code-challenge-interview",
+    "permalink": "/engagements/gothamsass-prepare-for-your-next-code-challenge-interview",
+    "anchors": [],
+    "body": {
+      "event": "GothamSass",
+      "event_url": "https://www.meetup.com/gothamsass/messages/79735372/",
+      "event_location_venue": "Thoughtworks",
+      "event_location": "New York, NY",
+      "date": "25 February 2017",
+      "title": "How to better prepare for your next code challege/interview",
+      "type": [
+        "talk"
+      ],
+      "topics": [
+        "hiring",
+        "teams"
+      ],
+      "resources": [
+        {
+          "type": "slides",
+          "link": "https://misscs.github.io/hiring-patterns/"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 5,
+      "fileName": "gothamsass-back-to-basics-sass-compass.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/gothamsass-back-to-basics-sass-compass",
+    "permalink": "/engagements/gothamsass-back-to-basics-sass-compass",
+    "anchors": [],
+    "body": {
+      "event": "GothamSass",
+      "event_url": "https://www.meetup.com/gothamsass/events/78720472/",
+      "event_location_venue": "Green Spaces",
+      "event_location": "NYC",
+      "date": "28 August 2012",
+      "title": "Back to Basics: Sass and Compass",
+      "type": [
+        "talk"
+      ],
+      "topics": [
+        "sass",
+        "compass"
+      ],
+      "description": "Basic sass feature through Compass and how to leverage its collection of recipes (mixins) to rapidly build out sites.",
+      "bio": "Claudina Sarahe (@itsmisscs) is on a quest to find out how to engineer a startup for success. Her favorite project in her portfolio is Studio Daniel Libeskind, built with Sass/Compass and Susy. She likes to meet in person, loves coffee and working with others, and tries to focus on solving meaningful and impactful problems. Claudina Sarahe lives on Henry St. in the LES."
+    }
+  },
+  {
+    "meta": {
+      "index": 6,
+      "fileName": "eyeo-dissing-orgs-rupturing-stuctural-seams.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/eyeo-dissing-orgs-rupturing-stuctural-seams",
+    "permalink": "/engagements/eyeo-dissing-orgs-rupturing-stuctural-seams",
+    "anchors": [],
+    "body": {
+      "event": "Eyeo",
+      "event_url": null,
+      "event_location_venue": "Gutherie Theature",
+      "event_location": "Minneapolis, MN",
+      "date": "26 June 2017",
+      "title": "Dissing organizations rupturing stuctural seams",
+      "type": [
+        "talk",
+        "ignite"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "url": "https://vimeo.com/233011504"
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "Mic drop",
+          "cite": "Taeyoon Choi"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 7,
+      "fileName": "drupaldelphia-better-way-to-css-sass-compass.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/drupaldelphia-better-way-to-css-sass-compass",
+    "permalink": "/engagements/drupaldelphia-better-way-to-css-sass-compass",
+    "anchors": [],
+    "body": {
+      "event": "Drupaldelphia",
+      "event_url": "https://groups.drupal.org/node/152614",
+      "event_location_venue": "Temple University Alter Hall",
+      "event_location": "Philadelphia, PA",
+      "date": "July 29 2011",
+      "title": "Finding a Better Way to CSS: Navigating Sass with Compass",
+      "type": [
+        "talk",
+        "camp"
+      ],
+      "topics": [
+        "sass",
+        "compass",
+        "css preprocessors"
+      ],
+      "media_type": "slides",
+      "media_url": "https://www.slideshare.net/itsmisscs/finding-a-better-way-to-css-navigating-sass-with-compass",
+      "description": "Knowing how to leverage Sass is ultimately what exposes its advantages over writing CSS unaided. This session is about common and useful Sass utilities. It focuses on getting the most from Sass through Compass as well as Sass properties and functions. We'll also cover core Compass imports, file organization best practices, and tips for approaching designs with Sass thinking."
+    }
+  },
+  {
+    "meta": {
+      "index": 8,
+      "fileName": "drupalcampnyc-case-study-studio-daniel-libeskind.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/drupalcampnyc-case-study-studio-daniel-libeskind",
+    "permalink": "/engagements/drupalcampnyc-case-study-studio-daniel-libeskind",
+    "anchors": [],
+    "body": {
+      "event": "DrupalCamp NYC",
+      "event_url": "http://nyc2010.drupalcamp.org/sessions/building-beauty-deadline-project-management-development-and-deployment-when-all-hands-are-d/index.html",
+      "event_location_venue": "John Jay College",
+      "event_location": "NYC",
+      "date": "11 December 2011",
+      "title": "Building Beauty on Deadline: Project Management, Development, and Deployment When All Hands are On Deck",
+      "description": "\"This session is a comprehensive case study of the re-launch of the site for Studio Daniel Libeskind (master planner for the Ground Zero memorial and redevelopment). The designer-driven project meant special challenges for overall theming and presentation in mobile devices.*\nWe will provide an informative and thorough case study of the highs and lows, highlighting what worked and what was learned from what didn't work. Business and planning practices will be open to inspection as well as code, and we invite interrogation and critique in the closing discussion portion of the session.\nThis session will answer:\n- How large a project can a small team handle? - How does a fluid team (core plus hired talent) do feature triage, dividing up tasks, and effective use of Redmine project management? - What development practices will save you time (also known as money) and are must haves for effective collaborative development, especially for remote teams? - Why does User Centered design works and how do you integrate the principles into your development process? - What to do to make an innovative design that makes responsive design difficult shine on tablet, iPad, iPhone, Android, and Blackberry devices?\"\n",
+      "co": {
+        "name": "Benjamin Melançon"
+      },
+      "type": [
+        "talk",
+        "case study"
+      ],
+      "resources": [
+        {
+          "type": "slides",
+          "link": "https://prezi.com/kaef_i1uv8x6/building-beauty-on-a-budget/"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 9,
+      "fileName": "drupalcampnyc-@include-sass.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/drupalcampnyc-include-sass",
+    "permalink": "/engagements/drupalcampnyc-include-sass",
+    "anchors": [],
+    "body": {
+      "event": "DrupalCamp NYC",
+      "event_url": "http://nyc2010.drupalcamp.org/sessions/include-sass/index.html",
+      "event_location_venue": "John Jay College",
+      "event_location": "NYC",
+      "date": "11 December 2011",
+      "title": "@include Sass",
+      "description": "Harnessing the power of Sass & Compass to writer cleaner, more reuseable, more maintainable CSS",
+      "co_author": "Sam Richard",
+      "type": [
+        "talk"
+      ],
+      "topics": [
+        "front-end",
+        "sass"
+      ],
+      "resources": [
+        {
+          "type": "slides",
+          "link": "https://prezi.com/n8gzbftckrud/sassy-thinking/"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 10,
+      "fileName": "djangocon-eu-front-end-revolution.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/djangocon-eu-front-end-revolution",
+    "permalink": "/engagements/djangocon-eu-front-end-revolution",
+    "anchors": [],
+    "body": {
+      "event": "DjangoCon EU",
+      "event_url": "https://2016.djangocon.eu/speakers/25",
+      "date": "30 March 2016",
+      "title": "Keynote: The Front-End Revolution",
+      "desription": "\"Revolutions don't happen when society adopts new technologies, they happen when society adopts new behaviors.\" - Clay Shirkey, Organizing without Organizations.\nFront end is the talk of the town. Humble CSS and expressive JavaScript have made their come back. The discipline of front end is undergoing massive change, a revolution so to speak, and it has nothing to do with NodeJS, Sass, or PostCss, even though we tout them among the myriad of reasons. For revolutions happen when we adopt new behaviors not new technologies.\nThis talk explores the events in the history of front-end web development that lead to the bouleversement within the field. It presents a framework for analyzing growth and adoption of tech tools using behavioral models. We’ll explore the importance of our behavior shifts not only for developers and designers, but for the world outside of the web industry; especially when it comes to tackling our next challenges which are cannot be resolved with code\n",
+      "type": [
+        "keynote",
+        "talk"
+      ],
+      "resources": [
+        {
+          "type": "video",
+          "url": "http://pyvideo.org/djangocon-europe-2016/the-front-end-revolution.html"
+        },
+        {
+          "type": "recap",
+          "url": "https://blog.sourcefabric.org/en/news/blog/3479/Learning-from-the-community-at-DjangoCon-Europe-2016.htm",
+          "meta": {
+            "by": "Aleksandar Erkalović"
+          }
+        }
+      ],
+      "bio": "Claudina Sarahe is an independent systems designer. She currently leads the front end web team at Casper. She co-founded SassConf and GothamSass and is a board member of the Sass Language Foundation and Oddbird. Claudina lives in NYC with her rescue pitt, Mitra."
+    }
+  },
+  {
+    "meta": {
+      "index": 11,
+      "fileName": "design-for-drupal-sass-compass-less.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/design-for-drupal-sass-compass-less",
+    "permalink": "/engagements/design-for-drupal-sass-compass-less",
+    "anchors": [],
+    "body": {
+      "event": "Design for Drupal",
+      "event_url": null,
+      "event_location_venue": "MIT Stata Center",
+      "event_location": "Cambridge, MA",
+      "date": "June 26 2011",
+      "title": "Bringing sexy back to CSS: SASS/SCSS, LESS and Compass ",
+      "type": [
+        "talk"
+      ],
+      "topics": [
+        "sass",
+        "compass",
+        "less",
+        "css preprocessors"
+      ],
+      "media_type": "slides",
+      "media_url": "https://www.slideshare.net/itsmisscs/2011-d4dboston",
+      "resources": [
+        {
+          "type": "notes",
+          "link": "http://data.agaric.com/bringing-sexy-back-css-sass-scss-compass"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 12,
+      "fileName": "denverass-meetup.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/denverass-meetup",
+    "permalink": "/engagements/denverass-meetup",
+    "anchors": [],
+    "body": {
+      "event": "DenverSass Meetup",
+      "event_url": "https://www.meetup.com/front-range-front-end/events/189898702/",
+      "event_venue": null,
+      "event_location": "Denver, CO",
+      "date": "8 July 2014",
+      "title": "HTML Components",
+      "type": null
+    }
+  },
+  {
+    "meta": {
+      "index": 13,
+      "fileName": "denver-university-creatively-reimagining-our-futures.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/denver-university-creatively-reimagining-our-futures",
+    "permalink": "/engagements/denver-university-creatively-reimagining-our-futures",
+    "anchors": [],
+    "body": {
+      "event": "Denver Univeristy Emergent Digital Practices",
+      "event_url": "https://www.du.edu/ahss/edp/news.html",
+      "date": "12 October 2017",
+      "title": "Creatively re:imagining our futures using on/offline participatory models and tools",
+      "description": "This talk explores ways that we can re:organize and re:figure ourselves to create more adaptive, responsive, and inclusive societies. Drawing from fieldwork and experiments in Taiwan and NYC, as well as cybernetics, we propose that we can use participatory models to help re:imagine and re:shape society. We will look at the role both on and offline tools can facilitate to help us bring into practices new modes of being together on a present, future, speculative time continuum.\nThis talk is meant to spark a conversation. It is by no means a definite list of all the patterns, that can only be accomplished collectively.",
+      "type": [
+        "talk"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 14,
+      "fileName": "cssconf-oakland-front-end-revolution.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/cssconf-oakland-front-end-revolution",
+    "permalink": "/engagements/cssconf-oakland-front-end-revolution",
+    "anchors": [],
+    "body": {
+      "event": "CSSCONF Oakland",
+      "event_url": null,
+      "event_venue": "Telegraph Theatre",
+      "event_location": "Oakland, CA",
+      "date": "December 9 2014",
+      "title": "The Front-End Revolution",
+      "description": "This is a talk explores events in the history of front-end development have lead to the bouleversement within the field. Despite what you may think, the revolution has nothing to do with the tools and technology. Twitter adoption isn't what started the Arab Spring; Node isn't responsible for JavaScripts renaissance; and Wikipedia's most significant accomplishment has nothing to do with the fact they are one of the most visited and trusted sites and completely human powered.",
+      "lead_image": "/assets/img/cs-speaking.jpg",
+      "lead_caption": "By Great Amazing Photographer",
+      "type": null,
+      "media_type": null,
+      "media_url": "https://www.youtube.com/watch?v=UbIQgDLXzII",
+      "resources": [
+        {
+          "type": "notes",
+          "title": "What Makes Something Revolutionary?",
+          "link": "https://helenvholmes.com/writing/what-makes-something-revolutionary"
+        }
+      ],
+      "bio": "Claudina Sarahe is a NYC-based entrepreneur, front-end architect, organizer, and speaker. She organizes SassConf and runs the monthly Sass meetup.\nWhen she's not working on her own projects you can find her with the Oddbirds; eating dessert with a soup spoon and molding ideas into beautiful, usable experiences."
+    }
+  },
+  {
+    "meta": {
+      "index": 15,
+      "fileName": "cssconf-eu-front-end-revolution.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/cssconf-eu-front-end-revolution",
+    "permalink": "/engagements/cssconf-eu-front-end-revolution",
+    "anchors": [],
+    "body": {
+      "event": "CSSCONF EU 2015",
+      "event_url": "http://2015.cssconf.eu/",
+      "date": "September 26 2015",
+      "title": "The Front-End Revolution",
+      "lead_image": "/assets/img/cs-speaking.jpg",
+      "lead_caption": "By Great Amazing Photographer",
+      "type": null,
+      "media_type": null,
+      "media_url": "https://www.youtube.com/watch?v=0gpraHLQ0L0",
+      "resources": [
+        {
+          "type": "sketch",
+          "url": "https://www.instagram.com/p/8FomJ3NmpM/"
+        },
+        {
+          "type": "recap",
+          "url": "http://www.xwiki.org/xwiki/bin/view/Blog/XWiki%20at%20CSSconf%20EU%202015",
+          "title": "XWiki at CSSconf EU 2015"
+        },
+        {
+          "type": "speaker",
+          "url": "http://2015.cssconf.eu/speaker/claudina-sarahe.html",
+          "title": "Meet Our Speakers"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 16,
+      "fileName": "cssconf-au-its-about-systems.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/cssconf-au-its-about-systems",
+    "permalink": "/engagements/cssconf-au-its-about-systems",
+    "anchors": [],
+    "body": {
+      "event": "CSSCONF AU 2015",
+      "event_url": "http://2015.cssconf.com.au/",
+      "date": "27 March 2015",
+      "title": "It's about Systems",
+      "lead_image": "/assets/img/cs-speaking.jpg",
+      "lead_caption": "By Great Amazing Photographer",
+      "type": "talk",
+      "media_type": null,
+      "media_url": "https://www.youtube.com/watch?v=AcpdBjTW9xc",
+      "resources": [
+        {
+          "type": "notes",
+          "url": "http://www.chriswrightdesign.com/articles/cssconfau-2015-part2/#claudina-sarahe",
+          "by": "Chris Write",
+          "twitter": "https://twitter.com/cwrightdesign"
+        },
+        {
+          "type": "collection",
+          "url": "https://www.are.na/thomas-green/ui-design-systems"
+        },
+        {
+          "type": "notes",
+          "url": "http://www.pewpewlaser.com/blogs/628"
+        }
+      ],
+      "quotes": [
+        "“If we’re only going to do things because we’re forced to do them, we’ll never solve our most pressing problems”"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 17,
+      "fileName": "clarity-pattern-languge-front-end.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/clarity-pattern-languge-front-end",
+    "permalink": "/engagements/clarity-pattern-languge-front-end",
+    "anchors": [],
+    "body": {
+      "event": "Clarity Conf",
+      "event_url": "https://www.clarityconf.com/deconstructing-web-systems-or-a-pattern-language-for-web-development/",
+      "date": "April 1 2016",
+      "title": "Deconstructing Web Systems Or A Pattern Language For Web Development",
+      "description": "A pattern language is a method of describing good design practices within a field of expertise. This talk is an exercise to coalesce a pattern language for web development, in particular the discipline of front-end web design and development. It goes beyond the elements that comprise a design system or style guide focusing on the larger system of practices that contribute to delightful experiences for those that craft and code the experiences and interact with our web applications.\nThis talk is meant to spark a conversation. It is by no means a definite list of all the patterns, that can only be accomplished collectively.",
+      "type": "talk",
+      "photos": [
+        {
+          "cite": "Susan Lin",
+          "cite_url": "https://www.clarityconf.com/susan-lin",
+          "resource": "/speaking/clarity-conf-sketch-notes.jpg"
+        },
+        null
+      ],
+      "resources": [
+        {
+          "type": "transcript",
+          "url": "https://www.clarityconf.com/deconstructing-web-systems-or-a-pattern-language-for-web-development/"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=TTZjGWJSzGw"
+        },
+        {
+          "type": "writeup",
+          "url": "https://publication.design.systems/design-systems-are-for-people-a484620b6988"
+        },
+        {
+          "type": "talk",
+          "url": "http://www.uxnewzealand.com/2016-talks/downloads/slides/speakers/jina-bolton.pdf"
+        },
+        {
+          "type": "notes",
+          "url": "https://jack.ofspades.com/clarity-conf-day-2-notes/",
+          "title": "Clarity Conf Day 2 Notes",
+          "meta": {
+            "by": "Jack Tarantino",
+            "twitter": "https://twitter.com/JacopoTarantino",
+            "site": "https://jack.ofspades.com"
+          }
+        },
+        {
+          "type": "notes",
+          "url": "http://bradfrost.com/blog/post/clarity-conf-deconstructing-web-systems-or-a-pattern-language-for-web-development/",
+          "title": "clarity conf: deconstructing web systems; or, a pattern language for web development",
+          "meta": {
+            "by": "Brad Frost",
+            "twitter": "https://twitter.com/brad_frost",
+            "site": "http://bradfrost.com/"
+          }
+        }
+      ],
+      "quotes": [
+        "Patterns are not dogma. They can change and adapt."
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 18,
+      "fileName": "campsass-so-you-use-sass-what-gives.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/campsass-so-you-use-sass-what-gives",
+    "permalink": "/engagements/campsass-so-you-use-sass-what-gives",
+    "anchors": [],
+    "body": {
+      "event": "CampSass SF",
+      "event_url": "http://campsass.com/2014/",
+      "event_location_venue": "Code for America",
+      "event_location": "San Francisco, CA",
+      "date": "19 April 2014",
+      "title": "So You Use Sass? What Gives?",
+      "type": [
+        "talk"
+      ],
+      "topics": [
+        "front-end",
+        "sass",
+        "community",
+        "open source",
+        "collaboration"
+      ],
+      "media_type": null,
+      "media_url": null,
+      "resources": [
+        {
+          "type": "article",
+          "link": "http://www.teamrarebit.com/blog/2014/04/30/campsass-2014/"
+        },
+        {
+          "type": "tweet",
+          "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"es\"><p lang=\"en\" dir=\"ltr\">I can confirm that <a href=\"https://twitter.com/itsmisscs?ref_src=twsrc%5Etfw\">@itsmisscs</a> is going to be speaking at <a href=\"https://twitter.com/CampSass?ref_src=twsrc%5Etfw\">@CampSass</a>! Time for badass-ery!</p>&mdash; Camp Sass (@CampSass) <a href=\"https://twitter.com/CampSass/status/436610753320071168?ref_src=twsrc%5Etfw\">20 de febrero de 2014</a></blockquote>",
+          "link": "https://twitter.com/CampSass/status/436610753320071168"
+        },
+        {
+          "type": "tweet",
+          "link": "https://twitter.com/CampSass/status/457656062783389696"
+        },
+        {
+          "type": "tweet",
+          "link": "https://twitter.com/jina/status/457656517877968896"
+        },
+        {
+          "type": "history",
+          "link": "https://twitter.com/search?l=&q=campsass%20since%3A2014-04-19%20until%3A2014-04-22&src=typd"
+        }
+      ],
+      "testimonials": [
+        {
+          "cite": "Mike Kwan",
+          "quote": "The organizer spirit & aspiring developer within has awakened. Thx @itsmisscs on tying #sass, participatory culture & revolution. #campsass"
+        },
+        {
+          "link": "https://twitter.com/chriseppstein/status/457660612797939712",
+          "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"es\"><p lang=\"en\" dir=\"ltr\">I loved <a href=\"https://twitter.com/itsmisscs?ref_src=twsrc%5Etfw\">@itsmisscs</a>&#39;s <a href=\"https://twitter.com/hashtag/campsass?src=hash&amp;ref_src=twsrc%5Etfw\">#campsass</a> talk. Sass&#39;s strength is it&#39;s commitment to community.</p>&mdash; ❄️chriseppstein (@chriseppstein) <a href=\"https://twitter.com/chriseppstein/status/457660612797939712?ref_src=twsrc%5Etfw\">19 de abril de 2014</a></blockquote>",
+          "type": "tweet",
+          "author": "chriseppstein"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 19,
+      "fileName": "brooklyn-css-sucks.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/brooklyn-css-sucks",
+    "permalink": "/engagements/brooklyn-css-sucks",
+    "anchors": [],
+    "body": {
+      "event": "BrooklynJS #17",
+      "event_url": null,
+      "event_location_venue": "Local 61",
+      "event_location": "Brooklyn, NY",
+      "date": "17 March 2015",
+      "title": "Cansei de Ser Styling",
+      "type": [
+        "lightning talk"
+      ],
+      "topics": [
+        "css",
+        "community"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 20,
+      "fileName": "atxsass-meetup-innaguration.yaml",
+      "section": "/talks",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/atxsass-meetup-innaguration",
+    "permalink": "/engagements/atxsass-meetup-innaguration",
+    "anchors": [],
+    "body": {
+      "event": "ATXSass Meetup",
+      "event_url": null,
+      "event_location_venue": null,
+      "event_location": "Austin, TX",
+      "date": "August 18 2014",
+      "title": "Innaguration!",
+      "type": [
+        "meetup",
+        "talk"
+      ],
+      "topics": [
+        "sass",
+        "commuity"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 0,
+      "fileName": "writespeakcode-speak-day-panel.yaml",
+      "section": "/panels",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/writespeakcode-speak-day-panel",
+    "permalink": "/engagements/writespeakcode-speak-day-panel",
+    "anchors": [],
+    "body": {
+      "event": "Write Speak Code",
+      "event_url": "http://2015.writespeakcode.com/schedule/#speak",
+      "date": "20 March 2015",
+      "title": "Conference Organizer Panel",
+      "desription": "Speak Day will turn you into a conference speaker! From choosing a topic and creating slides to writing a proposal and public speaking, you will walk through all the steps necessary to become a technical speaker. Feedback on your proposal, presentation, and speaking from experienced women technical speakers and conference organizers will put you well on your way to becoming a confident, powerful speaker.\n",
+      "type": [
+        "panel",
+        "mentorship"
+      ],
+      "bio": "Claudina Sarahe is an entrepreneur. Her background is in front-end web development with a focus on large, scale web applications and sites. She's lead front-end development for sites such for FEI.com, Charlie Rose, PBS, Scholastic, Count Me In, and LocalVox. Claundina organizes the monthly New York City Sass and Compass Meetup, is on the speaker selection committee for SassConf and was one of the founding members of UNICEF Innovation. In 2010, she developed a pilot program to teach development to less advantaged high schoolers in the Dominican Republic. She is a 2012 StartupBus aluma. A firm believer in a balanced lifestyle she keeps her mind and body elastic with Bikram Yoga, Crossfit, and biking NYC streets.\n"
+    }
+  },
+  {
+    "meta": {
+      "index": 1,
+      "fileName": "women-who-code-nyc-career-path-women-in-tech.yaml",
+      "section": "/panels",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/women-who-code-nyc-career-path-women-in-tech",
+    "permalink": "/engagements/women-who-code-nyc-career-path-women-in-tech",
+    "anchors": [],
+    "body": {
+      "event": "Women Who Code NYC",
+      "event_url": "https://www.meetup.com/WomenWhoCodeNYC/events/220730134/",
+      "event_location_venue": "Conde Nast",
+      "event_location": "New York, NY",
+      "date": "4 August 2015",
+      "title": "Career Paths for Women In Tech Panel",
+      "type": "panel",
+      "description": "Career Paths for Women in Tech\nFifty-six percent of women in technology companies leave their organizations at the mid-level point of their careers (10-20 years). Many leave because of the culture and lack of other women in leadership roles.\nWhen women don’t see other women in the higher echelons of tech, it takes away not only a tangible, visible goal toward which to aspire, but it also makes it much harder to find an empathetic mentor.\nSo, what career paths can we follow as women?\nThrough our topic, Careers Paths for Women in Tech, we will explore our own observations, experiences, obstacles and successes in the tech industry. Let's inspire women to aim high and stay in tech.\n",
+      "testimonials": [
+        {
+          "quote": "It was truly inspiring to hear about the different paths of the panelists: the way life unfolded for them, the challenges faced, the struggle to keep their humanness, the push to evolve and grow, the decision to step away and then return to the industry, and dealing with judgmental people. Thank you all for your support and commitment to help us women move forward in our tech careers. Thank you for being great role models!",
+          "cite": "emi c",
+          "url": "https://www.meetup.com/WomenWhoCodeNYC/members/182029442/"
+        },
+        {
+          "quote": "A wonderfully diverse group of women on the panel who all had amazing insight about their experiences in tech (even if it wasn't directly in development). It was so refreshing and encouraging to hear. Thank you!",
+          "cite": "Kristyn",
+          "url": "https://www.meetup.com/WomenWhoCodeNYC/members/187799052"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 2,
+      "fileName": "brooklyn-cssconf-panel.yaml",
+      "section": "/panels",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/brooklyn-cssconf-panel",
+    "permalink": "/engagements/brooklyn-cssconf-panel",
+    "anchors": [],
+    "body": {
+      "event": "BrooklynJS/CSSConf",
+      "event_url": "https://www.littlefieldnyc.com/event/852741-brooklynjs-20-brooklyn/",
+      "event_location_venue": "Littlefield",
+      "event_location": "Brooklyn, NY",
+      "date": "June 18 2015",
+      "title": "Cross-over panel",
+      "participants": [
+        {
+          "name": "Armando",
+          "twitter": null,
+          "role": "panelist"
+        },
+        {
+          "name": "Chris Coyier",
+          "twitter": null,
+          "role": "panelist"
+        },
+        {
+          "name": "Jen Schiffer",
+          "twitter": null,
+          "role": "panelist"
+        }
+      ],
+      "description": null,
+      "type": "panel",
+      "photos": [
+        {
+          "cite": "Alex Perkins",
+          "cite_url": "https://www.flickr.com/photos/alecperkins/19227634449",
+          "resource": "/speaking/brooklyn-cssconf-panel-alex-perkins.jpg"
+        },
+        null
+      ],
+      "resources": [
+        {
+          "type": "writeup",
+          "url": "https://medium.com/@visnup/visiting-brooklyn-js-from-san-francisco-42d9279509e2",
+          "title": "Visiting Brooklyn JS from San Francisco"
+        }
+      ],
+      "quotes": [
+        {
+          "quote": "Best panel I’ve seen",
+          "cite": "https://medium.com/@visnup/visiting-brooklyn-js-from-san-francisco-42d9279509e2"
+        },
+        {
+          "quote": "The panel and moderators succeeded in making everyone on stage feel totally approachable off-stage",
+          "cite": "https://medium.com/@visnup/visiting-brooklyn-js-from-san-francisco-42d9279509e2"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 0,
+      "fileName": "the-web-ahead-engineering-the-front.yaml",
+      "section": "/interviews",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/the-web-ahead-engineering-the-front",
+    "permalink": "/engagements/the-web-ahead-engineering-the-front",
+    "anchors": [],
+    "body": {
+      "event": "The Web Ahead",
+      "event_url": "http://thewebahead.net/90",
+      "event_location_venue": null,
+      "event_location": "Brooklyn, NY",
+      "date": "December 16, 2014",
+      "title": "Engineering the Front with Claudina Sarahe",
+      "host": {
+        "name": "Jen Simmons",
+        "website": "http://jensimmons.com/",
+        "twitter": "https://twitter.com/jensimmons"
+      },
+      "type": [
+        "podcast"
+      ],
+      "topics": [
+        "front-end",
+        "infrastructure",
+        "gulp"
+      ],
+      "media_type": "audio",
+      "media_url": "http://cdn.5by5.tv/audio/broadcasts/webahead/2014/webahead-090.mp3",
+      "resources": [
+        {
+          "type": "transcript",
+          "link": "http://thewebahead.net/comment/196#transcript"
+        },
+        {
+          "type": "archive",
+          "link": "http://5by5.tv/webahead/90"
+        }
+      ],
+      "description": "Front-end development has changed a lot. What used to be simple text in files is now a deep stack of robust engineering tools. Is this a good change? What advantages do the power tools provide, and what might we be giving up in exchange? Claudina Sarahe joins Jen Simmons to debate.",
+      "testimonials": [
+        {
+          "quote": "Fantastic discussion! Very informative and seriously inspiring.",
+          "name": "Andy",
+          "date": "July 17, 2015",
+          "permalink": "http://thewebahead.net/comment/196#comment-196"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 1,
+      "fileName": "sasscast-interview.yaml",
+      "section": "/interviews",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/sasscast-interview",
+    "permalink": "/engagements/sasscast-interview",
+    "anchors": [],
+    "body": {
+      "event": "SassCast",
+      "event_url": "https://player.fm/series/sasscast/interview-wclaudina-sarahe",
+      "event_location_venue": null,
+      "event_location": null,
+      "date": 2013,
+      "title": "Interview with Claudina Sarahe",
+      "host": {
+        "name": "Dale Sande",
+        "twitter": "https://twitter.com/anotheruiguy",
+        "website": "http://www.dalesande.com/"
+      },
+      "type": [
+        "podcast"
+      ],
+      "topics": [
+        "sass",
+        "meetups"
+      ],
+      "resources": [
+        {
+          "type": "audio",
+          "link": "http://sasscast.podbean.com/mf/play/t9gshk/SassCast_claudinasarahe.m4a"
+        }
+      ],
+      "description": "In this episode, we are being joined by industry mover and shaker and all around Sass enthusiast from the greater New York area, Claudina Sarahe. Claudina's current project is autotax.com (powered by Sass of course). Outside of her day gig, she is also developing a startup residency program; driven by the burning question: how can we design and engineer more successful startups. Claudina is very involved in the Sass grass-roots community. In fact, I was introduced to Claudina via a common thread. We both organize and manage Sass Meetups, mine in Seattle and hers in NY. And because I assume that she isn't busy enough, between the startup residency program and the meetup, there is also enough room to start planning the first ever SassConf."
+    }
+  },
+  {
+    "meta": {
+      "index": 2,
+      "fileName": "sassbites-road-to-sassconf.yaml",
+      "section": "/interviews",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/sassbites-road-to-sassconf",
+    "permalink": "/engagements/sassbites-road-to-sassconf",
+    "anchors": [],
+    "body": {
+      "event": "SassBites",
+      "event_url": "https://www.youtube.com/watch?v=BtWaFDpyDCI",
+      "event_location_venue": null,
+      "event_location": null,
+      "date": "May 13, 2014",
+      "title": "Sass Bites #37 - Claudina Sarahe ",
+      "type": [
+        "podcast"
+      ],
+      "topics": [
+        "sassconf",
+        "sass",
+        "community"
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 3,
+      "fileName": "responsive-web-design-podcast.yaml",
+      "section": "/interviews",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/responsive-web-design-podcast",
+    "permalink": "/engagements/responsive-web-design-podcast",
+    "anchors": [],
+    "body": {
+      "event": "Responsive Web Design Podcast",
+      "event_url": "https://responsivewebdesign.com/podcast/casper/",
+      "event_location_venue": "Episode 107",
+      "event_location": "New York, NY",
+      "date": "14 Nov 2016",
+      "title": "Interview on Casper.com",
+      "description": "A responsive redesign must build on the personality and narrative of the brand. Claudina Sarahe and Becki Choi from Casper share how they executed a second responsive design.",
+      "co": [
+        {
+          "name": "Becki Choi",
+          "role": "Senior Designer"
+        }
+      ],
+      "type": [
+        "podcast",
+        "interview"
+      ],
+      "topics": [
+        "casper",
+        "rwd",
+        "teams"
+      ],
+      "resources": [
+        {
+          "type": "audio",
+          "link": "https://traffic.libsyn.com/responsivewebdesign/Responsive_Web_Design_107_-_Casper.mp3"
+        },
+        {
+          "type": "transcript",
+          "link": "https://responsivewebdesign.com/podcast/casper/"
+        }
+      ]
+    }
+  },
+  {
+    "meta": {
+      "index": 4,
+      "fileName": "hanselminutes-podcast-sass-primer.yaml",
+      "section": "/interviews",
+      "dirName": "/engagements"
+    },
+    "date": "2018-01-06",
+    "path": "/engagements/engagements/hanselminutes-podcast-sass-primer",
+    "permalink": "/engagements/hanselminutes-podcast-sass-primer",
+    "anchors": [],
+    "body": {
+      "event": "The Hanselminutes podcast",
+      "event_url": "https://hanselminutes.com/443/a-sass-primer-with-claudina-sarahe",
+      "event_location_venue": "Show #443",
+      "event_location": "New York, NY",
+      "date": "Oct 03 2014",
+      "title": "A Sass Primer with Claudina Sarahe",
+      "type": [
+        "podcast",
+        "interview"
+      ],
+      "topics": [
+        "sass",
+        "community"
+      ],
+      "media_type": "audio",
+      "media_url": "https://hanselminutes.signl.fm/443",
+      "resources": [
+        {
+          "type": "transcript",
+          "link": "https://s3.amazonaws.com/hanselminutes/hanselminutes_0443.pdf"
+        }
+      ]
+    }
+  }
+]

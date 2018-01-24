@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "index": 2,
+    "fileName": "sassbites-road-to-sassconf.yaml",
+    "section": "/interviews",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/sassbites-road-to-sassconf",
+  "permalink": "/engagements/sassbites-road-to-sassconf",
+  "anchors": [],
+  "body": {
+    "event": "SassBites",
+    "event_url": "https://www.youtube.com/watch?v=BtWaFDpyDCI",
+    "event_location_venue": null,
+    "event_location": null,
+    "date": "May 13, 2014",
+    "title": "Sass Bites #37 - Claudina Sarahe ",
+    "type": [
+      "podcast"
+    ],
+    "topics": [
+      "sassconf",
+      "sass",
+      "community"
+    ]
+  }
+}

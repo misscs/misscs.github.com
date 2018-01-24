@@ -1,0 +1,247 @@
+[
+  {
+    "name": "xRayFM Radio",
+    "description": "Co-hosting the Changing Same Jazz Radio show",
+    "url": "https://xray.fm/broadcasts/398",
+    "timeline": "22 February 2014",
+    "location": "Portland, Oregon",
+    "background": "bg-yellow",
+    "photos": "/images/projects/content-panel-foto.jpg",
+    "type": "radio",
+    "meta": {
+      "index": 0,
+      "fileName": "xrayfm-changing-same-co-host.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/xrayfm-changing-same-co-host",
+    "permalink": "/projects/xrayfm-changing-same-co-host",
+    "anchors": [],
+    "body": "<p>Radio has been my love since college. I was super pumped to get to co-host this set with my dear friend Mikah Sykes. I owe my love of jazz to hime.</p>\n<h3>Show Notes</h3>\n<p>I was honored to have a special guest host all the way from Harlem in New York!  None other than Claudina Sarahe Gorashi (she’s pictured in the People for the Ethical Treatment of Animals sweatshirt on this page); she’s a personal friend of actual living and breathing current members of Sun Ra’s Arkestra (name dropping - sorry) and a very special girl with impeccable taste in jazz and music in general.  She took me to see the Sugar Hill Quartet at the legendary Lennox Lounge in Harlem last time I visited, and together we scoured the record shops all over Western Europe - a little international crate digging - expanding our already massive jazz LP collections, shipping our bounty back to the US in between stops.  The set I played was primarily picked by her - and as you can tell, she knows whats up!</p>\n"
+  },
+  {
+    "name": "Deep Dish/Waves of Change",
+    "description": "Community media and mapping",
+    "timeline": "Summer 2013",
+    "location": "Harlem, NY",
+    "background": "bg-navy",
+    "photos": "/images/projects/content-panel-foto.jpg",
+    "meta": {
+      "index": 1,
+      "fileName": "waves-of-change.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/waves-of-change",
+    "permalink": "/projects/waves-of-change",
+    "anchors": [],
+    "body": "<p>Multi-part project:</p>\n<ol>\n<li>updating the Deep Dish/Waves of Change community meida map, and</li>\n<li>adding community media to the map.</li>\n</ol>\n<p>We ended the year with student presentation in Vicky’s Garden.</p>\n<p>If we were to do the project again we would contain the age range to high school students.</p>\n<p>I think this project shows the need to develop community media services that can serve as a low cost option for community organizations. It builds a nice closed loop system where the community orgs work with local students.</p>\n<p>Being directly in Harlem meant we could easily take a trip to visit the different community organizations. Student teams could go over and film or ask questions during the day. Everything was within walking distance.</p>\n"
+  },
+  {
+    "name": "MACILE Team Programming",
+    "description": "Advanced front-end programming",
+    "timeline": "June 2017",
+    "location": "Itabo, Dominican Repulic",
+    "role": "Instructor, Curriculum Lead",
+    "background": "bg-near-black",
+    "photos": null,
+    "meta": {
+      "index": 2,
+      "fileName": "team-programming-macile.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/team-programming-macile",
+    "permalink": "/projects/team-programming-macile",
+    "anchors": [],
+    "body": "<p>MACILE Team Programming was a summer course in applied web development. Students learned about the process of building a website. The primary aim of this course was to expose students to the process of working on a team to build a website.</p>\n<p>Students came wth an understanding of HTML and CSS.</p>\n<h2>Topics covered:</h2>\n<ul>\n<li>Project management with Kanban and Github Issue Tracker</li>\n<li>Git on the Command Line</li>\n<li>HTML Templating</li>\n<li>Using code editors (Visual Studio Code and Sublime)</li>\n<li>Tips and tricks with shortcut keys</li>\n<li>The CLI</li>\n</ul>\n"
+  },
+  {
+    "name": "Startup Bus",
+    "description": "Product development on wheels",
+    "url": null,
+    "role": "Front-end",
+    "timeline": "March 2012",
+    "location": "NYC -> Austin, TX",
+    "background": "bg-yellow",
+    "photos": "/images/projects/content-panel-foto.jpg",
+    "type": "hackathon",
+    "meta": {
+      "index": 3,
+      "fileName": "startupbus.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/startupbus",
+    "permalink": "/projects/startupbus",
+    "anchors": [],
+    "body": "<p>Travelled on a bus from NYC to SXSW building a product with a group of people I met the night before.</p>\n"
+  },
+  {
+    "name": "SassConf",
+    "description": "Conference for those that dream of a better web",
+    "timeline": "2013, 2014, 2015",
+    "role": "Chair & Organizer",
+    "location": "NYC and Austin",
+    "type": "organizing, conference",
+    "background": "bg-purple",
+    "photos": null,
+    "meta": {
+      "index": 4,
+      "fileName": "sassconf.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/sassconf",
+    "permalink": "/projects/sassconf",
+    "anchors": [],
+    "body": ""
+  },
+  {
+    "name": "QUILTBAGTECH++",
+    "description": "Grassroots queer in tech collective",
+    "location": "NYC",
+    "timeline": "2015-Present",
+    "role": "Founding Member",
+    "background": "bg-light-blue",
+    "photos": null,
+    "meta": {
+      "index": 5,
+      "fileName": "quiltbagtech.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-24",
+    "path": "/projects/projects/quiltbagtech",
+    "permalink": "/projects/quiltbagtech",
+    "anchors": [],
+    "body": "<p>A group of queers into tech came together to form a hyper local, inclusive, non-corporate group who share a passion for tech and snacks ++.</p>\n"
+  },
+  {
+    "name": "Posture Magazine AR/VR Training",
+    "description": "Inclusivity and diversity training using mixed-reality technologies.",
+    "location": "NYC",
+    "timeline": "Starting 2018",
+    "status": "In development",
+    "type": "collaboration",
+    "background": "bg-pink",
+    "photos": null,
+    "draft": true,
+    "meta": {
+      "index": 6,
+      "fileName": "posture-magazine-mixed-reality-inclusivity-training.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-24",
+    "path": "/projects/projects/posture-magazine-mixed-reality-inclusivity-training",
+    "permalink": "/projects/posture-magazine-mixed-reality-inclusivity-training",
+    "anchors": [],
+    "body": ""
+  },
+  {
+    "name": "Harlem School of the Arts",
+    "description": "Developed and designed material for intro to web foundations course for students",
+    "timeline": "February - June 2017",
+    "location": "Harlem, New York",
+    "background": "bg-dark-red",
+    "photos": null,
+    "meta": {
+      "index": 7,
+      "fileName": "harlem-school-of-arts.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/harlem-school-of-arts",
+    "permalink": "/projects/harlem-school-of-arts",
+    "anchors": [],
+    "body": ""
+  },
+  {
+    "name": "GothamSass",
+    "description": "A gathering of front-enders with style",
+    "timeline": "June 2012 - present",
+    "location": "NY, New York",
+    "type": "organizing, community",
+    "background": "bg-hot-pink",
+    "photos": null,
+    "meta": {
+      "index": 8,
+      "fileName": "gothamsass.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/gothamsass",
+    "permalink": "/projects/gothamsass",
+    "anchors": [],
+    "body": "<p>New York City’s monthly gathering for people that care about the front-end. Now organized and led by Aisha Greene.</p>\n"
+  },
+  {
+    "name": "Drupal in Itabo, DR",
+    "description": "Website making and and open-source",
+    "timeline": "Summer 2010",
+    "location": "Itabo, Dominican Repulic",
+    "background": "bg-navy",
+    "type": "teaching",
+    "photos": "/images/projects/content-panel-foto.jpg",
+    "meta": {
+      "index": 9,
+      "fileName": "drupal-in-itabo.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/drupal-in-itabo",
+    "permalink": "/projects/drupal-in-itabo",
+    "anchors": [],
+    "body": "<p>Herein marks my innagural teaching experience and first attempt to fund a project via KickStarter. The latter was unnecessful, the former changed my life.</p>\n"
+  },
+  {
+    "name": "Drupal Web Team Training",
+    "description": "Teaching Drupal to under privileged youth in partnership with MACILE",
+    "timeline": "Summer 2012",
+    "location": "Itabo, Dominican Repulic",
+    "background": "bg-dark-blue",
+    "type": "teaching",
+    "photos": null,
+    "meta": {
+      "index": 10,
+      "fileName": "drupal-content-editing.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/drupal-content-editing",
+    "permalink": "/projects/drupal-content-editing",
+    "anchors": [],
+    "body": "<p>Trained small group of MACILE students on basics of HTML and Drupal content management. The team was responsible for updating content and managing MACILE Drupal site (RIP).</p>\n"
+  },
+  {
+    "name": "4th Street Food Coop",
+    "description": "New member trainer & Tech Team member",
+    "url": "https://4thstreetfoodcoop.org/",
+    "timeline": "2008-2010 ish",
+    "location": "58 E 4th St, New York, NY 10003",
+    "background": "bg-dark-green",
+    "photos": null,
+    "history": "\"The Good Food Coop started a long time ago. 1973 maybe. It died in the 90s, possibly for financial reasons. The Good Harvest Food Coop (D.B.A. 4th Street Food Coop) was created sometime thereafter.\nIt's not completely clear how to me how the two are related. I've been told that GFC closed a couple of years before GHFC started, making it not so much a \"phoenix from the ashes\" as a \"tree grown from a seed that survived the fire\" :)\nGood Food Coop I started out with 2 contacts, given by Chris Brandt, an old school member. 1 of those 2 contacts gave 6 other names. Some are just maybes, it was a long time ago. I have addresses for 2 of them, and will send out letters this week inviting them to participate. Hopefully they will either have contact info for the others, prove to be helpful, or both.\nFrom my 5 minutes of Conversation with my one contact (Joel Handorff), it's looking really juicy and promising.  Apparently many of the founders of the GFC met via \"organizing\" - rent strikes, etc.. and that some of those members had known each other through political action in the 30s. If that's true, there's a lot of depth here.\nI still have to find the founders of the GHFC though.\nWhen I've contacted all of the actual GFC & GHFC founders I can.. I'll be in touch.\nI've started page on the wiki. Sorry if you can't access it because you don't have an account.. IT is working on having a training & signup day, so that we can better collaborate.. hopefully that will happen sooner than later. http://4thstreetfoodcoop.org/bin/wiki/foodcoop/view/Members/AdminCoopHistory\"\n",
+    "meta": {
+      "index": 11,
+      "fileName": "4th-street-food-coop.md",
+      "section": "/",
+      "dirName": "/projects"
+    },
+    "date": "2018-01-16",
+    "path": "/projects/projects/4th-street-food-coop",
+    "permalink": "/projects/4th-street-food-coop",
+    "anchors": [],
+    "body": "<p>4th Steet Food Coop is a member run coop located on quaint 4th street in the East Village. I was a working member for a few years. I trained new members weekly. I also served on Tech Team which is where I learned about <a href=\"https://mayfirst.org\">Mayfirst/People Link</a>, first started working with Drupal, and meet the brilliant radical techie, <a href=\"https://twitter.com/chaoticfree\">Mallory Knodell</a>. She also taught me the term <em>radical techie</em>.</p>\n"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "index": 6,
+    "fileName": "eyeo-dissing-orgs-rupturing-stuctural-seams.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/eyeo-dissing-orgs-rupturing-stuctural-seams",
+  "permalink": "/engagements/eyeo-dissing-orgs-rupturing-stuctural-seams",
+  "anchors": [],
+  "body": {
+    "event": "Eyeo",
+    "event_url": null,
+    "event_location_venue": "Gutherie Theature",
+    "event_location": "Minneapolis, MN",
+    "date": "26 June 2017",
+    "title": "Dissing organizations rupturing stuctural seams",
+    "type": [
+      "talk",
+      "ignite"
+    ],
+    "resources": [
+      {
+        "type": "video",
+        "url": "https://vimeo.com/233011504"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Mic drop",
+        "cite": "Taeyoon Choi"
+      }
+    ]
+  }
+}

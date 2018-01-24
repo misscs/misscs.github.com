@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "index": 15,
+    "fileName": "cssconf-eu-front-end-revolution.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/cssconf-eu-front-end-revolution",
+  "permalink": "/engagements/cssconf-eu-front-end-revolution",
+  "anchors": [],
+  "body": {
+    "event": "CSSCONF EU 2015",
+    "event_url": "http://2015.cssconf.eu/",
+    "date": "September 26 2015",
+    "title": "The Front-End Revolution",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "lead_caption": "By Great Amazing Photographer",
+    "type": null,
+    "media_type": null,
+    "media_url": "https://www.youtube.com/watch?v=0gpraHLQ0L0",
+    "resources": [
+      {
+        "type": "sketch",
+        "url": "https://www.instagram.com/p/8FomJ3NmpM/"
+      },
+      {
+        "type": "recap",
+        "url": "http://www.xwiki.org/xwiki/bin/view/Blog/XWiki%20at%20CSSconf%20EU%202015",
+        "title": "XWiki at CSSconf EU 2015"
+      },
+      {
+        "type": "speaker",
+        "url": "http://2015.cssconf.eu/speaker/claudina-sarahe.html",
+        "title": "Meet Our Speakers"
+      }
+    ]
+  }
+}

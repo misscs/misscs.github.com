@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "index": 3,
+    "fileName": "responsive-web-design-podcast.yaml",
+    "section": "/interviews",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/responsive-web-design-podcast",
+  "permalink": "/engagements/responsive-web-design-podcast",
+  "anchors": [],
+  "body": {
+    "event": "Responsive Web Design Podcast",
+    "event_url": "https://responsivewebdesign.com/podcast/casper/",
+    "event_location_venue": "Episode 107",
+    "event_location": "New York, NY",
+    "date": "14 Nov 2016",
+    "title": "Interview on Casper.com",
+    "description": "A responsive redesign must build on the personality and narrative of the brand. Claudina Sarahe and Becki Choi from Casper share how they executed a second responsive design.",
+    "co": [
+      {
+        "name": "Becki Choi",
+        "role": "Senior Designer"
+      }
+    ],
+    "type": [
+      "podcast",
+      "interview"
+    ],
+    "topics": [
+      "casper",
+      "rwd",
+      "teams"
+    ],
+    "resources": [
+      {
+        "type": "audio",
+        "link": "https://traffic.libsyn.com/responsivewebdesign/Responsive_Web_Design_107_-_Casper.mp3"
+      },
+      {
+        "type": "transcript",
+        "link": "https://responsivewebdesign.com/podcast/casper/"
+      }
+    ]
+  }
+}

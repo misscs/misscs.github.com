@@ -1,0 +1,20 @@
+{
+  "name": "MACILE Team Programming",
+  "description": "Advanced front-end programming",
+  "timeline": "June 2017",
+  "location": "Itabo, Dominican Repulic",
+  "role": "Instructor, Curriculum Lead",
+  "background": "bg-near-black",
+  "photos": null,
+  "meta": {
+    "index": 2,
+    "fileName": "team-programming-macile.md",
+    "section": "/",
+    "dirName": "/projects"
+  },
+  "date": "2018-01-16",
+  "path": "/projects/projects/team-programming-macile",
+  "permalink": "/projects/team-programming-macile",
+  "anchors": [],
+  "body": "<p>MACILE Team Programming was a summer course in applied web development. Students learned about the process of building a website. The primary aim of this course was to expose students to the process of working on a team to build a website.</p>\n<p>Students came wth an understanding of HTML and CSS.</p>\n<h2>Topics covered:</h2>\n<ul>\n<li>Project management with Kanban and Github Issue Tracker</li>\n<li>Git on the Command Line</li>\n<li>HTML Templating</li>\n<li>Using code editors (Visual Studio Code and Sublime)</li>\n<li>Tips and tricks with shortcut keys</li>\n<li>The CLI</li>\n</ul>\n"
+}

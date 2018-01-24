@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "index": 0,
+    "fileName": "writespeakcode-speak-day-panel.yaml",
+    "section": "/panels",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/writespeakcode-speak-day-panel",
+  "permalink": "/engagements/writespeakcode-speak-day-panel",
+  "anchors": [],
+  "body": {
+    "event": "Write Speak Code",
+    "event_url": "http://2015.writespeakcode.com/schedule/#speak",
+    "date": "20 March 2015",
+    "title": "Conference Organizer Panel",
+    "desription": "Speak Day will turn you into a conference speaker! From choosing a topic and creating slides to writing a proposal and public speaking, you will walk through all the steps necessary to become a technical speaker. Feedback on your proposal, presentation, and speaking from experienced women technical speakers and conference organizers will put you well on your way to becoming a confident, powerful speaker.\n",
+    "type": [
+      "panel",
+      "mentorship"
+    ],
+    "bio": "Claudina Sarahe is an entrepreneur. Her background is in front-end web development with a focus on large, scale web applications and sites. She's lead front-end development for sites such for FEI.com, Charlie Rose, PBS, Scholastic, Count Me In, and LocalVox. Claundina organizes the monthly New York City Sass and Compass Meetup, is on the speaker selection committee for SassConf and was one of the founding members of UNICEF Innovation. In 2010, she developed a pilot program to teach development to less advantaged high schoolers in the Dominican Republic. She is a 2012 StartupBus aluma. A firm believer in a balanced lifestyle she keeps her mind and body elastic with Bikram Yoga, Crossfit, and biking NYC streets.\n"
+  }
+}

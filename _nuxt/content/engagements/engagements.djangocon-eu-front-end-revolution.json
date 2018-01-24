@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "index": 10,
+    "fileName": "djangocon-eu-front-end-revolution.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/djangocon-eu-front-end-revolution",
+  "permalink": "/engagements/djangocon-eu-front-end-revolution",
+  "anchors": [],
+  "body": {
+    "event": "DjangoCon EU",
+    "event_url": "https://2016.djangocon.eu/speakers/25",
+    "date": "30 March 2016",
+    "title": "Keynote: The Front-End Revolution",
+    "desription": "\"Revolutions don't happen when society adopts new technologies, they happen when society adopts new behaviors.\" - Clay Shirkey, Organizing without Organizations.\nFront end is the talk of the town. Humble CSS and expressive JavaScript have made their come back. The discipline of front end is undergoing massive change, a revolution so to speak, and it has nothing to do with NodeJS, Sass, or PostCss, even though we tout them among the myriad of reasons. For revolutions happen when we adopt new behaviors not new technologies.\nThis talk explores the events in the history of front-end web development that lead to the bouleversement within the field. It presents a framework for analyzing growth and adoption of tech tools using behavioral models. We’ll explore the importance of our behavior shifts not only for developers and designers, but for the world outside of the web industry; especially when it comes to tackling our next challenges which are cannot be resolved with code\n",
+    "type": [
+      "keynote",
+      "talk"
+    ],
+    "resources": [
+      {
+        "type": "video",
+        "url": "http://pyvideo.org/djangocon-europe-2016/the-front-end-revolution.html"
+      },
+      {
+        "type": "recap",
+        "url": "https://blog.sourcefabric.org/en/news/blog/3479/Learning-from-the-community-at-DjangoCon-Europe-2016.htm",
+        "meta": {
+          "by": "Aleksandar Erkalović"
+        }
+      }
+    ],
+    "bio": "Claudina Sarahe is an independent systems designer. She currently leads the front end web team at Casper. She co-founded SassConf and GothamSass and is a board member of the Sass Language Foundation and Oddbird. Claudina lives in NYC with her rescue pitt, Mitra."
+  }
+}

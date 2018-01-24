@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "index": 0,
+    "fileName": "devnexus-sass-workshop.yaml",
+    "section": "/workshops",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/devnexus-sass-workshop",
+  "permalink": "/engagements/devnexus-sass-workshop",
+  "anchors": [],
+  "body": {
+    "event": "DevNexus",
+    "event_url": "http://thewebahead.net/90",
+    "event_location_venue": "Cobb Galleria",
+    "event_location": "Atlanta, GA",
+    "date": 2015,
+    "title": "Ins and Outs of Sass - Build Front End Systems",
+    "type": [
+      "workshop"
+    ],
+    "topics": [
+      "front-end",
+      "systems design",
+      "sass"
+    ],
+    "media_type": "video",
+    "media_url": "https://youtu.be/JIeFhdffM_Y?list=PLid93BOrASLPwJIlj9tmnkL1ghQTejtMI",
+    "resources": [
+      {
+        "type": "article",
+        "link": "https://www.tuicool.com/articles/ymmaAf6"
+      },
+      {
+        "type": "article",
+        "link": "https://dzone.com/videos/devnexus2015/ins-outs-sass"
+      }
+    ]
+  }
+}

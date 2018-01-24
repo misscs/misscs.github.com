@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "index": 3,
+    "fileName": "gothamsass-sassshop-workshop-beginner-intermediate.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/gothamsass-sassshop-workshop-beginner-intermediate",
+  "permalink": "/engagements/gothamsass-sassshop-workshop-beginner-intermediate",
+  "anchors": [],
+  "body": {
+    "event": "GothamSass",
+    "event_url": "https://www.meetup.com/gothamsass/events/205638062/?_cookie-check=sHYgmuYleukuFy_m",
+    "event_location_venue": "Crush & Lovely",
+    "event_location": "NYC",
+    "date": "8 September 2014",
+    "title": "SassShop: 2hr Sass Workshop (Beginner to Intermediate)",
+    "type": [
+      "workshop"
+    ],
+    "topics": [
+      "sass"
+    ],
+    "description": "Are you looking to take your Sass chops to the next level? Are you just starting out with Sass and want to cut straight through the cruft to best practices and techniques? This 2hr SassShop is a hands on experience designed to cover the Sass feature set from a practical, daily use perspective. Our goal is to have you leaving feeling more comfortable with Sass. We hope you will walk out with new Sassy insights to take back to your team or solo-practice as well as techniques for improving your front-end development process."
+  }
+}

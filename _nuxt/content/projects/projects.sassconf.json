@@ -1,0 +1,21 @@
+{
+  "name": "SassConf",
+  "description": "Conference for those that dream of a better web",
+  "timeline": "2013, 2014, 2015",
+  "role": "Chair & Organizer",
+  "location": "NYC and Austin",
+  "type": "organizing, conference",
+  "background": "bg-purple",
+  "photos": null,
+  "meta": {
+    "index": 4,
+    "fileName": "sassconf.md",
+    "section": "/",
+    "dirName": "/projects"
+  },
+  "date": "2018-01-16",
+  "path": "/projects/projects/sassconf",
+  "permalink": "/projects/sassconf",
+  "anchors": [],
+  "body": ""
+}

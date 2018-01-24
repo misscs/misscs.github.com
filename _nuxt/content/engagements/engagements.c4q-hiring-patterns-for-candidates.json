@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "index": 1,
+    "fileName": "c4q-hiring-patterns-for-candidates.yaml",
+    "section": "/workshops",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/c4q-hiring-patterns-for-candidates",
+  "permalink": "/engagements/c4q-hiring-patterns-for-candidates",
+  "anchors": [],
+  "body": {
+    "event": "C4Q",
+    "event_url": "https://www.c4q.nyc/",
+    "event_location_venue": null,
+    "event_location": "Queens, NY",
+    "date": "10 April 2017",
+    "title": "Hiring Patterns for Candidates",
+    "type": [
+      "workshop"
+    ],
+    "topics": [
+      "hiring",
+      "interviewing",
+      "tech jobs"
+    ],
+    "resources": [
+      {
+        "type": "slides",
+        "link": "https://misscs.github.io/hiring-patterns/"
+      }
+    ],
+    "testimonials": [
+      "Thanks so much for the interviewing workshop with our students. They LOVED it. Several said it was the best workshop they'd had at C4Q."
+    ]
+  }
+}

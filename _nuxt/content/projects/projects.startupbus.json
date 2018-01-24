@@ -1,0 +1,22 @@
+{
+  "name": "Startup Bus",
+  "description": "Product development on wheels",
+  "url": null,
+  "role": "Front-end",
+  "timeline": "March 2012",
+  "location": "NYC -> Austin, TX",
+  "background": "bg-yellow",
+  "photos": "/images/projects/content-panel-foto.jpg",
+  "type": "hackathon",
+  "meta": {
+    "index": 3,
+    "fileName": "startupbus.md",
+    "section": "/",
+    "dirName": "/projects"
+  },
+  "date": "2018-01-16",
+  "path": "/projects/projects/startupbus",
+  "permalink": "/projects/startupbus",
+  "anchors": [],
+  "body": "<p>Travelled on a bus from NYC to SXSW building a product with a group of people I met the night before.</p>\n"
+}

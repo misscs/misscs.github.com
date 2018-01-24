@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "index": 18,
+    "fileName": "campsass-so-you-use-sass-what-gives.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/campsass-so-you-use-sass-what-gives",
+  "permalink": "/engagements/campsass-so-you-use-sass-what-gives",
+  "anchors": [],
+  "body": {
+    "event": "CampSass SF",
+    "event_url": "http://campsass.com/2014/",
+    "event_location_venue": "Code for America",
+    "event_location": "San Francisco, CA",
+    "date": "19 April 2014",
+    "title": "So You Use Sass? What Gives?",
+    "type": [
+      "talk"
+    ],
+    "topics": [
+      "front-end",
+      "sass",
+      "community",
+      "open source",
+      "collaboration"
+    ],
+    "media_type": null,
+    "media_url": null,
+    "resources": [
+      {
+        "type": "article",
+        "link": "http://www.teamrarebit.com/blog/2014/04/30/campsass-2014/"
+      },
+      {
+        "type": "tweet",
+        "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"es\"><p lang=\"en\" dir=\"ltr\">I can confirm that <a href=\"https://twitter.com/itsmisscs?ref_src=twsrc%5Etfw\">@itsmisscs</a> is going to be speaking at <a href=\"https://twitter.com/CampSass?ref_src=twsrc%5Etfw\">@CampSass</a>! Time for badass-ery!</p>&mdash; Camp Sass (@CampSass) <a href=\"https://twitter.com/CampSass/status/436610753320071168?ref_src=twsrc%5Etfw\">20 de febrero de 2014</a></blockquote>",
+        "link": "https://twitter.com/CampSass/status/436610753320071168"
+      },
+      {
+        "type": "tweet",
+        "link": "https://twitter.com/CampSass/status/457656062783389696"
+      },
+      {
+        "type": "tweet",
+        "link": "https://twitter.com/jina/status/457656517877968896"
+      },
+      {
+        "type": "history",
+        "link": "https://twitter.com/search?l=&q=campsass%20since%3A2014-04-19%20until%3A2014-04-22&src=typd"
+      }
+    ],
+    "testimonials": [
+      {
+        "cite": "Mike Kwan",
+        "quote": "The organizer spirit & aspiring developer within has awakened. Thx @itsmisscs on tying #sass, participatory culture & revolution. #campsass"
+      },
+      {
+        "link": "https://twitter.com/chriseppstein/status/457660612797939712",
+        "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"es\"><p lang=\"en\" dir=\"ltr\">I loved <a href=\"https://twitter.com/itsmisscs?ref_src=twsrc%5Etfw\">@itsmisscs</a>&#39;s <a href=\"https://twitter.com/hashtag/campsass?src=hash&amp;ref_src=twsrc%5Etfw\">#campsass</a> talk. Sass&#39;s strength is it&#39;s commitment to community.</p>&mdash; ❄️chriseppstein (@chriseppstein) <a href=\"https://twitter.com/chriseppstein/status/457660612797939712?ref_src=twsrc%5Etfw\">19 de abril de 2014</a></blockquote>",
+        "type": "tweet",
+        "author": "chriseppstein"
+      }
+    ]
+  }
+}

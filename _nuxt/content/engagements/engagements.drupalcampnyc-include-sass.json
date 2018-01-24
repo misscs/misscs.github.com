@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "index": 9,
+    "fileName": "drupalcampnyc-@include-sass.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/drupalcampnyc-include-sass",
+  "permalink": "/engagements/drupalcampnyc-include-sass",
+  "anchors": [],
+  "body": {
+    "event": "DrupalCamp NYC",
+    "event_url": "http://nyc2010.drupalcamp.org/sessions/include-sass/index.html",
+    "event_location_venue": "John Jay College",
+    "event_location": "NYC",
+    "date": "11 December 2011",
+    "title": "@include Sass",
+    "description": "Harnessing the power of Sass & Compass to writer cleaner, more reuseable, more maintainable CSS",
+    "co_author": "Sam Richard",
+    "type": [
+      "talk"
+    ],
+    "topics": [
+      "front-end",
+      "sass"
+    ],
+    "resources": [
+      {
+        "type": "slides",
+        "link": "https://prezi.com/n8gzbftckrud/sassy-thinking/"
+      }
+    ]
+  }
+}

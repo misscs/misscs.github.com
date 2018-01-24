@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "index": 19,
+    "fileName": "brooklyn-css-sucks.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/brooklyn-css-sucks",
+  "permalink": "/engagements/brooklyn-css-sucks",
+  "anchors": [],
+  "body": {
+    "event": "BrooklynJS #17",
+    "event_url": null,
+    "event_location_venue": "Local 61",
+    "event_location": "Brooklyn, NY",
+    "date": "17 March 2015",
+    "title": "Cansei de Ser Styling",
+    "type": [
+      "lightning talk"
+    ],
+    "topics": [
+      "css",
+      "community"
+    ]
+  }
+}

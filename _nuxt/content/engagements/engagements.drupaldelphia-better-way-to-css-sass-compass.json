@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "index": 7,
+    "fileName": "drupaldelphia-better-way-to-css-sass-compass.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/drupaldelphia-better-way-to-css-sass-compass",
+  "permalink": "/engagements/drupaldelphia-better-way-to-css-sass-compass",
+  "anchors": [],
+  "body": {
+    "event": "Drupaldelphia",
+    "event_url": "https://groups.drupal.org/node/152614",
+    "event_location_venue": "Temple University Alter Hall",
+    "event_location": "Philadelphia, PA",
+    "date": "July 29 2011",
+    "title": "Finding a Better Way to CSS: Navigating Sass with Compass",
+    "type": [
+      "talk",
+      "camp"
+    ],
+    "topics": [
+      "sass",
+      "compass",
+      "css preprocessors"
+    ],
+    "media_type": "slides",
+    "media_url": "https://www.slideshare.net/itsmisscs/finding-a-better-way-to-css-navigating-sass-with-compass",
+    "description": "Knowing how to leverage Sass is ultimately what exposes its advantages over writing CSS unaided. This session is about common and useful Sass utilities. It focuses on getting the most from Sass through Compass as well as Sass properties and functions. We'll also cover core Compass imports, file organization best practices, and tips for approaching designs with Sass thinking."
+  }
+}

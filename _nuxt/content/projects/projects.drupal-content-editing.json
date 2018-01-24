@@ -1,0 +1,20 @@
+{
+  "name": "Drupal Web Team Training",
+  "description": "Teaching Drupal to under privileged youth in partnership with MACILE",
+  "timeline": "Summer 2012",
+  "location": "Itabo, Dominican Repulic",
+  "background": "bg-dark-blue",
+  "type": "teaching",
+  "photos": null,
+  "meta": {
+    "index": 10,
+    "fileName": "drupal-content-editing.md",
+    "section": "/",
+    "dirName": "/projects"
+  },
+  "date": "2018-01-16",
+  "path": "/projects/projects/drupal-content-editing",
+  "permalink": "/projects/drupal-content-editing",
+  "anchors": [],
+  "body": "<p>Trained small group of MACILE students on basics of HTML and Drupal content management. The team was responsible for updating content and managing MACILE Drupal site (RIP).</p>\n"
+}

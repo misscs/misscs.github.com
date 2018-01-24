@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "index": 20,
+    "fileName": "atxsass-meetup-innaguration.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/atxsass-meetup-innaguration",
+  "permalink": "/engagements/atxsass-meetup-innaguration",
+  "anchors": [],
+  "body": {
+    "event": "ATXSass Meetup",
+    "event_url": null,
+    "event_location_venue": null,
+    "event_location": "Austin, TX",
+    "date": "August 18 2014",
+    "title": "Innaguration!",
+    "type": [
+      "meetup",
+      "talk"
+    ],
+    "topics": [
+      "sass",
+      "commuity"
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+[
+  {
+    "event": "CSSCONF EU 2015",
+    "event_url": "http://2015.cssconf.eu/",
+    "date": null,
+    "title": "The Front-End Revolution",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "lead_caption": "By Great Amazing Photographer",
+    "type": null,
+    "media_type": null,
+    "media_url": "https://www.youtube.com/watch?v=0gpraHLQ0L0"
+  },
+  {
+    "event": "CSSCONF AU 2015",
+    "event_url": "",
+    "date": null,
+    "title": "It's about Systems",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "lead_caption": "By Great Amazing Photographer",
+    "type": "talk",
+    "media_type": null,
+    "media_url": "https://www.youtube.com/watch?v=AcpdBjTW9xc"
+  },
+  {
+    "event": "CSSCONF Oakland",
+    "event_url": "",
+    "date": null,
+    "title": "The Front-End Revolution",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "lead_caption": "By Great Amazing Photographer",
+    "type": null,
+    "media_type": null,
+    "media_url": "https://www.youtube.com/watch?v=UbIQgDLXzII"
+  },
+  {
+    "event": "DjangoCon EU",
+    "event_url": "https://2016.djangocon.eu/speakers/25",
+    "date": "30 March 2016",
+    "title": "Keynote: The Front-End Revolution",
+    "type": null,
+    "media_type": null,
+    "media_url":
+      "http://pyvideo.org/djangocon-europe-2016/the-front-end-revolution.html"
+  },
+  {
+    "event": "Clarity Conf",
+    "event_url": "",
+    "date": null,
+    "title": "A Pattern Langauge for Front-End Development",
+    "type": null,
+    "media_type": null,
+    "media_url": ""
+  },
+  {
+    "event": "CampSass SF",
+    "event_url": "http://campsass.com/2014/",
+    "date": "19 April 2014",
+    "title": "So You Use Sass? What Gives?",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "type": null,
+    "media_type": null,
+    "media_url": null
+  },
+  {
+    "event": "The Mixin",
+    "event_url":
+      "http://themixinsf.com/2014/07/23/claudina-sarahe-chris-eppstein/",
+    "date": "23 July 2014",
+    "title": "Getting into a Componentized Mindset",
+    "type": null,
+    "media_type": null,
+    "media_url": null
+  },
+  {
+    "event": "Denver Sass Meetup",
+    "event_url": "https://www.meetup.com/Sass-Hack-Denver/events/189898702/",
+    "date": "8 July 2014",
+    "title": "JSON & HTML Templating for better Styleguides",
+    "type": null,
+    "media_type": null,
+    "media_url": null
+  },
+  {
+    "event": "SassBites",
+    "event_url": "The Road to SassConf",
+    "date": null,
+    "title": "",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "type": null,
+    "media_type": null,
+    "media_url": null
+  },
+  {
+    "event": "Philly Drupal Camp 2011",
+    "event_url": null,
+    "date": "September 2011",
+    "title": "Finding a Better Way to CSS: Navigating Sass with Compass",
+    "type": null,
+    "media_type": null,
+    "media_url":
+      "https://www.slideshare.net/itsmisscs/finding-a-better-way-to-css-navigating-sass-with-compass"
+  },
+  {
+    "event": "Design for Drupal",
+    "event_url": null,
+    "event_location": "Boston, MA",
+    "date": "June 2011",
+    "title": "Bringing sexy back to CSS: Sass, LESS and Compass",
+    "type": null,
+    "media_type": "podcast",
+    "media_url": "https://www.slideshare.net/itsmisscs/2011-d4dboston"
+  },
+  {
+    "event": "Shanselman Podcast",
+    "event_url": null,
+    "event_location": null,
+    "date": "3 October 2014",
+    "title": "A Sass Primer with Claudina Sarahe",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "type": null,
+    "media_type": "podcast",
+    "media_url":
+      "https://www.hanselminutes.com/443/a-sass-primer-with-claudina-sarahe"
+  },
+  {
+    "event": "Responsive Web Design Podcast",
+    "event_url": null,
+    "event_location": null,
+    "date": "14 November 2016",
+    "title": "Casper",
+    "type": null,
+    "media_type": "podcast",
+    "media_url": "https://responsivewebdesign.com/podcast/casper/"
+  },
+  {
+    "event": "Write Speak Code",
+    "event_url": "http://www.writespeakcode.com/2015-conference/speak/",
+    "event_location": "New York, NY",
+    "date": "20 March 2015",
+    "title": "Speak Day Panel",
+    "type": null,
+    "media_type": "panel",
+    "media_url": null
+  },
+  {
+    "event": "GothamSass Meetup",
+    "event_url": null,
+    "event_location": "New York, NY",
+    "date": null,
+    "title": "Hiring Patterns for Developers and Managers",
+    "type": null,
+    "media_type": "talk",
+    "media_url": null
+  },
+  {
+    "event": "Coalition for Queens (C4Q)",
+    "event_url": null,
+    "event_location": "Queens, NY",
+    "date": null,
+    "title": "Hiring for Junior Developers",
+    "type": null,
+    "media_type": "talk",
+    "media_url": null
+  },
+  {
+    "event": "The Web Ahead",
+    "event_url": "http://thewebahead.net",
+    "event_location": null,
+    "date": null,
+    "title": "Engineering the Front",
+    "type": null,
+    "media_type": "podcast",
+    "media_url": "http://thewebahead.net/guest/claudina-sarahe"
+  },
+  {
+    "event": "BrooklynJS #17",
+    "event_url": null,
+    "event_location": "Brooklyn, NY",
+    "date": "17 March 2015",
+    "title": "Cansei de Ser Styling",
+    "type": null,
+    "media_type": "talk",
+    "media_url": ""
+  },
+  {
+    "event": "CSSConf + BrooklynJS",
+    "event_url": null,
+    "event_location": "Brooklyn, NY",
+    "date": "18 June 2015",
+    "title": "Panel",
+    "type": null,
+    "media_type": "panel",
+    "media_url": null
+  },
+  {
+    "event": "BlendConf",
+    "event_url": "http://2014.blendconf.com/schedule/getting-to-know-sass/",
+    "event_location": "Charlotte, NC",
+    "date": "11 September 2011",
+    "title": "Getting to know Sass",
+    "type": null,
+    "media_type": "workshop",
+    "media_url": null
+  },
+  {
+    "event": "DevNexus",
+    "event_url": "https://www.devnexus.com/s/devnexus2015/speakers/4866",
+    "event_location": "Atlanta, GA",
+    "date": "12 March 2015",
+    "title": "Ins and Outs of Sass: Build Front-End Systems",
+    "type": null,
+    "media_type": null,
+    "media_url": null
+  },
+  {
+    "event": "The Start",
+    "event_url": "http://thestart.fm/interviews/the-letter",
+    "event_location": null,
+    "date": "12 Marchd 2015",
+    "title": "Interview",
+    "type": null,
+    "media_type": null,
+    "media_url": null
+  },
+  {
+    "event": "Women Who Code NYC",
+    "event_url": "https://www.meetup.com/WomenWhoCodeNYC/events/220730134/",
+    "event_location": "New York, NY",
+    "date": "4 August 2015",
+    "title": "Career Paths for Women In Tech Panel",
+    "type": null,
+    "media_type": null,
+    "media_url": null
+  }
+]

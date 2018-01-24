@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "index": 1,
+    "fileName": "pnwdrupalcamp-case-study-studio-daniel-libeskind.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/pnwdrupalcamp-case-study-studio-daniel-libeskind",
+  "permalink": "/engagements/pnwdrupalcamp-case-study-studio-daniel-libeskind",
+  "anchors": [],
+  "body": {
+    "event": "Pacific Northwest Drupal Summit",
+    "event_url": "http://nyc2010.drupalcamp.org/sessions/building-beauty-deadline-project-management-development-and-deployment-when-all-hands-are-d/index.html",
+    "event_location_venue": null,
+    "event_location": "Portland, OR",
+    "date": "October 14 2011",
+    "title": "Building Beauty on Deadline: Project Management, Development, and Deployment When All Hands are On Deck",
+    "description": "\"This session is a comprehensive case study of the re-launch of the site for Studio Daniel Libeskind (master planner for the Ground Zero memorial and redevelopment). The designer-driven project meant special challenges for overall theming and presentation in mobile devices.*\nWe will provide an informative and thorough case study of the highs and lows, highlighting what worked and what was learned from what didn't work. Business and planning practices will be open to inspection as well as code, and we invite interrogation and critique in the closing discussion portion of the session.\nThis session will answer:\n- How large a project can a small team handle? - How does a fluid team (core plus hired talent) do feature triage, dividing up tasks, and effective use of Redmine project management? - What development practices will save you time (also known as money) and are must haves for effective collaborative development, especially for remote teams? - Why does User Centered design works and how do you integrate the principles into your development process? - What to do to make an innovative design that makes responsive design difficult shine on tablet, iPad, iPhone, Android, and Blackberry devices?\"\n",
+    "co": {
+      "name": "Benjamin Melançon"
+    },
+    "type": [
+      "talk",
+      "case study"
+    ],
+    "resources": [
+      {
+        "type": "slides",
+        "link": "https://prezi.com/kaef_i1uv8x6/building-beauty-on-a-budget/"
+      },
+      {
+        "notes": "notes",
+        "link": "http://data.agaric.com/building-beauty-presentation-documentation-and-links"
+      }
+    ]
+  }
+}

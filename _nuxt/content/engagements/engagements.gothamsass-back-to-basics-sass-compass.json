@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "index": 5,
+    "fileName": "gothamsass-back-to-basics-sass-compass.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/gothamsass-back-to-basics-sass-compass",
+  "permalink": "/engagements/gothamsass-back-to-basics-sass-compass",
+  "anchors": [],
+  "body": {
+    "event": "GothamSass",
+    "event_url": "https://www.meetup.com/gothamsass/events/78720472/",
+    "event_location_venue": "Green Spaces",
+    "event_location": "NYC",
+    "date": "28 August 2012",
+    "title": "Back to Basics: Sass and Compass",
+    "type": [
+      "talk"
+    ],
+    "topics": [
+      "sass",
+      "compass"
+    ],
+    "description": "Basic sass feature through Compass and how to leverage its collection of recipes (mixins) to rapidly build out sites.",
+    "bio": "Claudina Sarahe (@itsmisscs) is on a quest to find out how to engineer a startup for success. Her favorite project in her portfolio is Studio Daniel Libeskind, built with Sass/Compass and Susy. She likes to meet in person, loves coffee and working with others, and tries to focus on solving meaningful and impactful problems. Claudina Sarahe lives on Henry St. in the LES."
+  }
+}

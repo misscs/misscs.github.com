@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "index": 1,
+    "fileName": "sasscast-interview.yaml",
+    "section": "/interviews",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/sasscast-interview",
+  "permalink": "/engagements/sasscast-interview",
+  "anchors": [],
+  "body": {
+    "event": "SassCast",
+    "event_url": "https://player.fm/series/sasscast/interview-wclaudina-sarahe",
+    "event_location_venue": null,
+    "event_location": null,
+    "date": 2013,
+    "title": "Interview with Claudina Sarahe",
+    "host": {
+      "name": "Dale Sande",
+      "twitter": "https://twitter.com/anotheruiguy",
+      "website": "http://www.dalesande.com/"
+    },
+    "type": [
+      "podcast"
+    ],
+    "topics": [
+      "sass",
+      "meetups"
+    ],
+    "resources": [
+      {
+        "type": "audio",
+        "link": "http://sasscast.podbean.com/mf/play/t9gshk/SassCast_claudinasarahe.m4a"
+      }
+    ],
+    "description": "In this episode, we are being joined by industry mover and shaker and all around Sass enthusiast from the greater New York area, Claudina Sarahe. Claudina's current project is autotax.com (powered by Sass of course). Outside of her day gig, she is also developing a startup residency program; driven by the burning question: how can we design and engineer more successful startups. Claudina is very involved in the Sass grass-roots community. In fact, I was introduced to Claudina via a common thread. We both organize and manage Sass Meetups, mine in Seattle and hers in NY. And because I assume that she isn't busy enough, between the startup residency program and the meetup, there is also enough room to start planning the first ever SassConf."
+  }
+}

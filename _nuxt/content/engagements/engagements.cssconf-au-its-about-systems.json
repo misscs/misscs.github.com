@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "index": 16,
+    "fileName": "cssconf-au-its-about-systems.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/cssconf-au-its-about-systems",
+  "permalink": "/engagements/cssconf-au-its-about-systems",
+  "anchors": [],
+  "body": {
+    "event": "CSSCONF AU 2015",
+    "event_url": "http://2015.cssconf.com.au/",
+    "date": "27 March 2015",
+    "title": "It's about Systems",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "lead_caption": "By Great Amazing Photographer",
+    "type": "talk",
+    "media_type": null,
+    "media_url": "https://www.youtube.com/watch?v=AcpdBjTW9xc",
+    "resources": [
+      {
+        "type": "notes",
+        "url": "http://www.chriswrightdesign.com/articles/cssconfau-2015-part2/#claudina-sarahe",
+        "by": "Chris Write",
+        "twitter": "https://twitter.com/cwrightdesign"
+      },
+      {
+        "type": "collection",
+        "url": "https://www.are.na/thomas-green/ui-design-systems"
+      },
+      {
+        "type": "notes",
+        "url": "http://www.pewpewlaser.com/blogs/628"
+      }
+    ],
+    "quotes": [
+      "“If we’re only going to do things because we’re forced to do them, we’ll never solve our most pressing problems”"
+    ]
+  }
+}

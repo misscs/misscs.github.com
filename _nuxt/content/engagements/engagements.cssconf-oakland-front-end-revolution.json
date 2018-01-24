@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "index": 14,
+    "fileName": "cssconf-oakland-front-end-revolution.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/cssconf-oakland-front-end-revolution",
+  "permalink": "/engagements/cssconf-oakland-front-end-revolution",
+  "anchors": [],
+  "body": {
+    "event": "CSSCONF Oakland",
+    "event_url": null,
+    "event_venue": "Telegraph Theatre",
+    "event_location": "Oakland, CA",
+    "date": "December 9 2014",
+    "title": "The Front-End Revolution",
+    "description": "This is a talk explores events in the history of front-end development have lead to the bouleversement within the field. Despite what you may think, the revolution has nothing to do with the tools and technology. Twitter adoption isn't what started the Arab Spring; Node isn't responsible for JavaScripts renaissance; and Wikipedia's most significant accomplishment has nothing to do with the fact they are one of the most visited and trusted sites and completely human powered.",
+    "lead_image": "/assets/img/cs-speaking.jpg",
+    "lead_caption": "By Great Amazing Photographer",
+    "type": null,
+    "media_type": null,
+    "media_url": "https://www.youtube.com/watch?v=UbIQgDLXzII",
+    "resources": [
+      {
+        "type": "notes",
+        "title": "What Makes Something Revolutionary?",
+        "link": "https://helenvholmes.com/writing/what-makes-something-revolutionary"
+      }
+    ],
+    "bio": "Claudina Sarahe is a NYC-based entrepreneur, front-end architect, organizer, and speaker. She organizes SassConf and runs the monthly Sass meetup.\nWhen she's not working on her own projects you can find her with the Oddbirds; eating dessert with a soup spoon and molding ideas into beautiful, usable experiences."
+  }
+}

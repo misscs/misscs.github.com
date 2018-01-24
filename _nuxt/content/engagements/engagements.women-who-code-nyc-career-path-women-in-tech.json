@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "index": 1,
+    "fileName": "women-who-code-nyc-career-path-women-in-tech.yaml",
+    "section": "/panels",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/women-who-code-nyc-career-path-women-in-tech",
+  "permalink": "/engagements/women-who-code-nyc-career-path-women-in-tech",
+  "anchors": [],
+  "body": {
+    "event": "Women Who Code NYC",
+    "event_url": "https://www.meetup.com/WomenWhoCodeNYC/events/220730134/",
+    "event_location_venue": "Conde Nast",
+    "event_location": "New York, NY",
+    "date": "4 August 2015",
+    "title": "Career Paths for Women In Tech Panel",
+    "type": "panel",
+    "description": "Career Paths for Women in Tech\nFifty-six percent of women in technology companies leave their organizations at the mid-level point of their careers (10-20 years). Many leave because of the culture and lack of other women in leadership roles.\nWhen women don’t see other women in the higher echelons of tech, it takes away not only a tangible, visible goal toward which to aspire, but it also makes it much harder to find an empathetic mentor.\nSo, what career paths can we follow as women?\nThrough our topic, Careers Paths for Women in Tech, we will explore our own observations, experiences, obstacles and successes in the tech industry. Let's inspire women to aim high and stay in tech.\n",
+    "testimonials": [
+      {
+        "quote": "It was truly inspiring to hear about the different paths of the panelists: the way life unfolded for them, the challenges faced, the struggle to keep their humanness, the push to evolve and grow, the decision to step away and then return to the industry, and dealing with judgmental people. Thank you all for your support and commitment to help us women move forward in our tech careers. Thank you for being great role models!",
+        "cite": "emi c",
+        "url": "https://www.meetup.com/WomenWhoCodeNYC/members/182029442/"
+      },
+      {
+        "quote": "A wonderfully diverse group of women on the panel who all had amazing insight about their experiences in tech (even if it wasn't directly in development). It was so refreshing and encouraging to hear. Thank you!",
+        "cite": "Kristyn",
+        "url": "https://www.meetup.com/WomenWhoCodeNYC/members/187799052"
+      }
+    ]
+  }
+}

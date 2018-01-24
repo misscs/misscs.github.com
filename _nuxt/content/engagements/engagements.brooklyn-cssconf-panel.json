@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "index": 2,
+    "fileName": "brooklyn-cssconf-panel.yaml",
+    "section": "/panels",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/brooklyn-cssconf-panel",
+  "permalink": "/engagements/brooklyn-cssconf-panel",
+  "anchors": [],
+  "body": {
+    "event": "BrooklynJS/CSSConf",
+    "event_url": "https://www.littlefieldnyc.com/event/852741-brooklynjs-20-brooklyn/",
+    "event_location_venue": "Littlefield",
+    "event_location": "Brooklyn, NY",
+    "date": "June 18 2015",
+    "title": "Cross-over panel",
+    "participants": [
+      {
+        "name": "Armando",
+        "twitter": null,
+        "role": "panelist"
+      },
+      {
+        "name": "Chris Coyier",
+        "twitter": null,
+        "role": "panelist"
+      },
+      {
+        "name": "Jen Schiffer",
+        "twitter": null,
+        "role": "panelist"
+      }
+    ],
+    "description": null,
+    "type": "panel",
+    "photos": [
+      {
+        "cite": "Alex Perkins",
+        "cite_url": "https://www.flickr.com/photos/alecperkins/19227634449",
+        "resource": "/speaking/brooklyn-cssconf-panel-alex-perkins.jpg"
+      },
+      null
+    ],
+    "resources": [
+      {
+        "type": "writeup",
+        "url": "https://medium.com/@visnup/visiting-brooklyn-js-from-san-francisco-42d9279509e2",
+        "title": "Visiting Brooklyn JS from San Francisco"
+      }
+    ],
+    "quotes": [
+      {
+        "quote": "Best panel I’ve seen",
+        "cite": "https://medium.com/@visnup/visiting-brooklyn-js-from-san-francisco-42d9279509e2"
+      },
+      {
+        "quote": "The panel and moderators succeeded in making everyone on stage feel totally approachable off-stage",
+        "cite": "https://medium.com/@visnup/visiting-brooklyn-js-from-san-francisco-42d9279509e2"
+      }
+    ]
+  }
+}

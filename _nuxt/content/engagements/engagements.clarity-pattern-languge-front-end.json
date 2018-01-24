@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "index": 17,
+    "fileName": "clarity-pattern-languge-front-end.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/clarity-pattern-languge-front-end",
+  "permalink": "/engagements/clarity-pattern-languge-front-end",
+  "anchors": [],
+  "body": {
+    "event": "Clarity Conf",
+    "event_url": "https://www.clarityconf.com/deconstructing-web-systems-or-a-pattern-language-for-web-development/",
+    "date": "April 1 2016",
+    "title": "Deconstructing Web Systems Or A Pattern Language For Web Development",
+    "description": "A pattern language is a method of describing good design practices within a field of expertise. This talk is an exercise to coalesce a pattern language for web development, in particular the discipline of front-end web design and development. It goes beyond the elements that comprise a design system or style guide focusing on the larger system of practices that contribute to delightful experiences for those that craft and code the experiences and interact with our web applications.\nThis talk is meant to spark a conversation. It is by no means a definite list of all the patterns, that can only be accomplished collectively.",
+    "type": "talk",
+    "photos": [
+      {
+        "cite": "Susan Lin",
+        "cite_url": "https://www.clarityconf.com/susan-lin",
+        "resource": "/speaking/clarity-conf-sketch-notes.jpg"
+      },
+      null
+    ],
+    "resources": [
+      {
+        "type": "transcript",
+        "url": "https://www.clarityconf.com/deconstructing-web-systems-or-a-pattern-language-for-web-development/"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=TTZjGWJSzGw"
+      },
+      {
+        "type": "writeup",
+        "url": "https://publication.design.systems/design-systems-are-for-people-a484620b6988"
+      },
+      {
+        "type": "talk",
+        "url": "http://www.uxnewzealand.com/2016-talks/downloads/slides/speakers/jina-bolton.pdf"
+      },
+      {
+        "type": "notes",
+        "url": "https://jack.ofspades.com/clarity-conf-day-2-notes/",
+        "title": "Clarity Conf Day 2 Notes",
+        "meta": {
+          "by": "Jack Tarantino",
+          "twitter": "https://twitter.com/JacopoTarantino",
+          "site": "https://jack.ofspades.com"
+        }
+      },
+      {
+        "type": "notes",
+        "url": "http://bradfrost.com/blog/post/clarity-conf-deconstructing-web-systems-or-a-pattern-language-for-web-development/",
+        "title": "clarity conf: deconstructing web systems; or, a pattern language for web development",
+        "meta": {
+          "by": "Brad Frost",
+          "twitter": "https://twitter.com/brad_frost",
+          "site": "http://bradfrost.com/"
+        }
+      }
+    ],
+    "quotes": [
+      "Patterns are not dogma. They can change and adapt."
+    ]
+  }
+}

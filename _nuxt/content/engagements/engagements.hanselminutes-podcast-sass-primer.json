@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "index": 4,
+    "fileName": "hanselminutes-podcast-sass-primer.yaml",
+    "section": "/interviews",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/hanselminutes-podcast-sass-primer",
+  "permalink": "/engagements/hanselminutes-podcast-sass-primer",
+  "anchors": [],
+  "body": {
+    "event": "The Hanselminutes podcast",
+    "event_url": "https://hanselminutes.com/443/a-sass-primer-with-claudina-sarahe",
+    "event_location_venue": "Show #443",
+    "event_location": "New York, NY",
+    "date": "Oct 03 2014",
+    "title": "A Sass Primer with Claudina Sarahe",
+    "type": [
+      "podcast",
+      "interview"
+    ],
+    "topics": [
+      "sass",
+      "community"
+    ],
+    "media_type": "audio",
+    "media_url": "https://hanselminutes.signl.fm/443",
+    "resources": [
+      {
+        "type": "transcript",
+        "link": "https://s3.amazonaws.com/hanselminutes/hanselminutes_0443.pdf"
+      }
+    ]
+  }
+}

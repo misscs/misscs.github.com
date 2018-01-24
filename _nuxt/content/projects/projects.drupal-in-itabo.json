@@ -1,0 +1,20 @@
+{
+  "name": "Drupal in Itabo, DR",
+  "description": "Website making and and open-source",
+  "timeline": "Summer 2010",
+  "location": "Itabo, Dominican Repulic",
+  "background": "bg-navy",
+  "type": "teaching",
+  "photos": "/images/projects/content-panel-foto.jpg",
+  "meta": {
+    "index": 9,
+    "fileName": "drupal-in-itabo.md",
+    "section": "/",
+    "dirName": "/projects"
+  },
+  "date": "2018-01-16",
+  "path": "/projects/projects/drupal-in-itabo",
+  "permalink": "/projects/drupal-in-itabo",
+  "anchors": [],
+  "body": "<p>Herein marks my innagural teaching experience and first attempt to fund a project via KickStarter. The latter was unnecessful, the former changed my life.</p>\n"
+}

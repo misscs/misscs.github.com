@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "index": 0,
+    "fileName": "the-web-ahead-engineering-the-front.yaml",
+    "section": "/interviews",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/the-web-ahead-engineering-the-front",
+  "permalink": "/engagements/the-web-ahead-engineering-the-front",
+  "anchors": [],
+  "body": {
+    "event": "The Web Ahead",
+    "event_url": "http://thewebahead.net/90",
+    "event_location_venue": null,
+    "event_location": "Brooklyn, NY",
+    "date": "December 16, 2014",
+    "title": "Engineering the Front with Claudina Sarahe",
+    "host": {
+      "name": "Jen Simmons",
+      "website": "http://jensimmons.com/",
+      "twitter": "https://twitter.com/jensimmons"
+    },
+    "type": [
+      "podcast"
+    ],
+    "topics": [
+      "front-end",
+      "infrastructure",
+      "gulp"
+    ],
+    "media_type": "audio",
+    "media_url": "http://cdn.5by5.tv/audio/broadcasts/webahead/2014/webahead-090.mp3",
+    "resources": [
+      {
+        "type": "transcript",
+        "link": "http://thewebahead.net/comment/196#transcript"
+      },
+      {
+        "type": "archive",
+        "link": "http://5by5.tv/webahead/90"
+      }
+    ],
+    "description": "Front-end development has changed a lot. What used to be simple text in files is now a deep stack of robust engineering tools. Is this a good change? What advantages do the power tools provide, and what might we be giving up in exchange? Claudina Sarahe joins Jen Simmons to debate.",
+    "testimonials": [
+      {
+        "quote": "Fantastic discussion! Very informative and seriously inspiring.",
+        "name": "Andy",
+        "date": "July 17, 2015",
+        "permalink": "http://thewebahead.net/comment/196#comment-196"
+      }
+    ]
+  }
+}

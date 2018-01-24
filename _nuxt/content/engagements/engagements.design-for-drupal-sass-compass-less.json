@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "index": 11,
+    "fileName": "design-for-drupal-sass-compass-less.yaml",
+    "section": "/talks",
+    "dirName": "/engagements"
+  },
+  "date": "2018-01-06",
+  "path": "/engagements/engagements/design-for-drupal-sass-compass-less",
+  "permalink": "/engagements/design-for-drupal-sass-compass-less",
+  "anchors": [],
+  "body": {
+    "event": "Design for Drupal",
+    "event_url": null,
+    "event_location_venue": "MIT Stata Center",
+    "event_location": "Cambridge, MA",
+    "date": "June 26 2011",
+    "title": "Bringing sexy back to CSS: SASS/SCSS, LESS and Compass ",
+    "type": [
+      "talk"
+    ],
+    "topics": [
+      "sass",
+      "compass",
+      "less",
+      "css preprocessors"
+    ],
+    "media_type": "slides",
+    "media_url": "https://www.slideshare.net/itsmisscs/2011-d4dboston",
+    "resources": [
+      {
+        "type": "notes",
+        "link": "http://data.agaric.com/bringing-sexy-back-css-sass-scss-compass"
+      }
+    ]
+  }
+}
